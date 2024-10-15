@@ -180,7 +180,11 @@ Some cards cause you to gain Clank! When this happens, add that many cubes from 
 
 Some very sneaky cards cause you to remove Clank! For each negative Clank! you get, remove one of your Clank! from the Clank! Area. If you don't have enough Clank! there, you can instead avoid adding Clank! later in the turn if an effect would make you do so. Any leftover negative Clank! is lost when your turn ends.
 
+### Ending your turn
+
 Once you've played all of your cards and used as much of your resources as you want to, your turn ends. Put all of the cards you played into your discard pile and draw five new cards in preparation for your next turn. Any Skill, Swords, or Boots you don't use are wasted, so make them count!
+
+### Example
 
 The green player takes her turn by playing the following cards:
 
@@ -219,6 +223,8 @@ At the end of every turn, if any of the six spaces for cards in the Dungeon Row 
 To execute an attack, take all of the Clank! in the Clank! Area and put it in the Dragon Bag. Shake it up and draw a number of cubes from the bag equal to the number shown in the Dragon marker's current space of the Rage Track. Each black cube drawn is set aside, but each colored cube represents damage dealt to that player. (Undrawn cubes remain in the bag—they might still be drawn out later.) The more Clank! you make, the more likely the dragon is to notice and attack you. Managing your noise level is key to survival!
 
 The dragon's rage increases throughout the game. Every time an Artifact is picked up, and whenever a Dragon Egg (a type of Minor Secret) is discovered, advance the Dragon marker one space along the Rage Track. This may cause more cubes to be drawn in the next attack. The more cubes being drawn, the deadlier the game becomes. Tread carefully!
+
+### Example
 
 At the end of the yellow player's turn, there are only three cards left in the Dungeon Row. Three cards are revealed from the top of the Dungeon Deck to fill the empty spaces. Two of them have the Dragon Attack symbol, triggering an attack this turn.
 
