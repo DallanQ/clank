@@ -103,13 +103,13 @@ Stealing From The Dragon Is Far From A Simple Job. You'Ll Have To Navigate Throu
 
 During your turn, you can use the resources you've generated—Skill, Swords, and Boots—to take any of the following actions. You may take each action as many times as you like, as long as you have the resources to do so. You can wait and take your actions after you've played all of your cards, or you can take actions between cards if you wish.
 
-### Acquire a New Card for Your Deck 
+### Acquire a New Card for Your Deck (page 6)
 
 You can use Skill to acquire cards with blue banners from the Dungeon Row (which change throughout the game) or cards with yellow banners from the Reserve (which are the same in every game).
 
 (Icon of the number '3' on a yellow square background divided diagonally) The Skill Cost of a card is found in its lower right corner. Once you pay the cost, place the card in your discard pile; it is now part of your deck.
 
-### Use a Device 
+### Use a Device (page 6)
 
 Devices are the cards with purple banners in the Dungeon Row.
 
@@ -117,7 +117,7 @@ Devices can be acquired with Skill, but they do not become part of your deck. In
 
 The Skill Cost of a Device is found in its lower right corner.
 
-### Fight a Monster 
+### Fight a Monster (page 6)
 
 Monsters are the cards with red banners in the Dungeon Row. Instead of acquiring monsters with Skill, you fight them using Swords.
 
@@ -127,7 +127,7 @@ When you fight a monster in the Dungeon Row, you gain the reward listed in its D
 
 You may also fight the Goblin in the Reserve. It is not discarded when defeated; each player may fight it multiple times each turn, earning its reward each time.
 
-### Buy From The Market
+### Buy From The Market (page 6)
 
 The Market is a series of spaces where merchants serve those exploring the dungeon. If you are in a Market room, you may make a purchase.
 
@@ -137,7 +137,7 @@ Items available at the Market are described on the back of this rulebook.
 
 > Image of a small Kiosk shop
 
-### Move Through a Tunnel 
+### Move Through a Tunnel (page 6)
 
 > Image of a boot in a yellow background square.
 
@@ -171,20 +171,21 @@ Whenever you enter a Crystal Cave room, you become exhausted while wandering its
 
 There are two other common effects that your cards many have:
 
-### Gaining Gold
+### Gaining Gold (page 7)
 
 (Icon of no.2 in cream background) When you gain Gold, take it from the Bank and put it in front of you. Each Gold is worth 1 point when the game ends, but you can also use it for other reasons during the game, such as buying items from the Market.
 
-### Clank! 
+### Clank! (page 7)
+
 Some cards cause you to gain Clank! When this happens, add that many cubes from your personal supply to the Clank! Area of the game board.
 
 Some very sneaky cards cause you to remove Clank! For each negative Clank! you get, remove one of your Clank! from the Clank! Area. If you don't have enough Clank! there, you can instead avoid adding Clank! later in the turn if an effect would make you do so. Any leftover negative Clank! is lost when your turn ends.
 
-### Ending your turn
+### Ending your turn (page 7)
 
 Once you've played all of your cards and used as much of your resources as you want to, your turn ends. Put all of the cards you played into your discard pile and draw five new cards in preparation for your next turn. Any Skill, Swords, or Boots you don't use are wasted, so make them count!
 
-### Example
+### Example (page 7)
 
 The green player takes her turn by playing the following cards:
 
@@ -224,7 +225,7 @@ To execute an attack, take all of the Clank! in the Clank! Area and put it in th
 
 The dragon's rage increases throughout the game. Every time an Artifact is picked up, and whenever a Dragon Egg (a type of Minor Secret) is discovered, advance the Dragon marker one space along the Rage Track. This may cause more cubes to be drawn in the next attack. The more cubes being drawn, the deadlier the game becomes. Tread carefully!
 
-### Example
+### Example (page 8)
 
 At the end of the yellow player's turn, there are only three cards left in the Dungeon Row. Three cards are revealed from the top of the Dungeon Deck to fill the empty spaces. Two of them have the Dragon Attack symbol, triggering an attack this turn.
 
@@ -324,7 +325,7 @@ The Mountain King says "If you have a crown, + (Icon of a sword in a red backgro
 
 ## Field Reference Guide (page 12)
 
-### Major Secrets
+### Major Secrets (page 12)
 
 (Image of a Potion of healing, with double heart) **Potion of Greater Healing** 
 Use during your turn to heal 2 damage. (Keep until you use it, then return it to the box.)
@@ -338,7 +339,7 @@ Use during your turn to heal 2 damage. (Keep until you use it, then return it to
 (Image of Chalice) **Chalice**
 Keep this token—it is worth 7 points at the end of the game. It is not an Artifact.
 
-### Market Items
+### Market Items (page 12)
 
 (Icon of a key with a number 5 at the right bottom) **Master Key**
 Allows you to use tunnels with a lock icon. (Also worth 5 points at the end of the game.)
@@ -349,7 +350,7 @@ Allows you to carry an additional Artifact. (Also worth 5 points at the end of t
 (Icon of a Crown with a number 10 at the right bottom) **Crown**
 Worth the number of points shown. (Each player takes the most valuable Crown available when they buy one.)
 
-### Minor Secrets
+### Minor Secrets (page 12)
 
 (Image of a Potion of healing, with a heart) **Potion of Healing** 
 Use during your turn to heal 1 damage. (Keep until you use it, then return it to the box.)
