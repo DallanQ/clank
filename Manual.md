@@ -231,7 +231,7 @@ At the end of the yellow player's turn, there are only three cards left in the D
 
 All the cubes in the Clank! Area are placed in the Dragon Bag. The Dragon marker is currently on the fifth space of the Rage Track, so four cubes are drawn from the bag. One cube is black; it is set aside, affecting no one. The second is green, so the green player takes 1 damage. The last two cubes are both yellow, so the yellow player takes 2 damage.
 
-## Step 4: The Getaway
+## Step 4: The Getaway (Page 8)
 
 Dungeon delving is not without its risks. A master thief must carefully manage their physical state to maximize both profit and survivability. Remember, the two greatest obstacles to spending money are being broke and being dead.
 
@@ -257,7 +257,7 @@ Remember, if you don't have an Artifact yet, you can't leave the dungeon, or eve
 
 Depths
 
-## Step: The End Of The Line (page 9)
+## Step 5: The End Of The Line (page 9)
 
 Good timing is crucial in this heist—getting caught by a dragon is far worse than being pinched by the authorities! But as in all heists, there's nothing wrong with throwing your rivals under the proverbial carriage once you've made your escape.
 
