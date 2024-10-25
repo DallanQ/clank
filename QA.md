@@ -1,8 +1,24 @@
 [do-you-get-mastery-bonus-if-you-teleport-out](https://boardgamegeek.com/thread/2032532/do-you-get-mastery-bonus-if-you-teleport-out)
 
+> As title. Can you get 20 points on top of an easy escape if you teleport from the bottom of the dungeon to the inn? Or do you have to walk out the old-fashioned way to get the badge? Alternatively, does "Any card that can teleport you to an “adjacent room” can be used to leave the dungeon" mean "leave the dungeon *from the first dungeon space*"? Because if so that's very poorly worded.
+
+Teleport — Teleportation is a special form of movement that allows you to move to any room connected to your current room.
+Technically leaving the dungeon is not moving to a room. The FAQ means you can still use teleport to leave the dungeon from the first room inside the dungeon, even though you are not moving "to any room connected to your current room."
+Edit: You can only exit the dungeon from the first room by the entrance. You are not allowed to teleport from the bottom of the dungeon.
+
 [dragons-eye-mastery-token](https://boardgamegeek.com/thread/1667876/dragons-eye-mastery-token)
 
+> The card Dragon's Eye says its worth 10 if you have a mastery token, what's a mastery token?
+
+The 20 point token for returning to town.
+
+> A follow on question, when the dragon attack is initiated on the countdown track do you add any clank cubes on the board to the bag prior to drawing?
+
+Yes, the pending clank cubes are always put in the bag before resolving a dragon attack.
+
 [countdown-track-drawing-extra-cubes](https://boardgamegeek.com/thread/1712890/countdown-track-drawing-extra-cubes)
+
+> 
 
 [making-sure-dragon-attack-early-in-game](https://boardgamegeek.com/thread/1820960/making-sure-dragon-attack-early-in-game)
 
