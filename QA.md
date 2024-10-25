@@ -44,7 +44,15 @@ It clarifies that leaving the dungeon first starts a timer, which pressures othe
 
 [rules-question](https://boardgamegeek.com/thread/1936098/rules-question)
 
+> If I move in a tunnel with monster icon and have no sword I take 1 damage. But what about if at the end of the movement I found a potion with a sword: can I use this sword to prevent the previous damage suffered?
+
+No, you encountered the monster first, failed to kill it, suffered the 1 damage then moved on to discover the item.
+
 [does-monkey-bot-trigger-an-attack-when-it-was-play](https://boardgamegeek.com/thread/2486662/does-monkey-bot-trigger-an-attack-when-it-was-play)
+
+> Does monkey bot trigger an attack when it was played from my hand in my turn?
+
+Attacks only happen when revealed in the dungeon row (or unless stated explicitly like for Mister Whiskers).
 
 [resources-on-cards](https://boardgamegeek.com/thread/1758632/resources-on-cards)
 
