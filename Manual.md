@@ -285,43 +285,69 @@ The player with the most points is the winner and is declared the Greatest Thief
 
 Never be afraid to learn new tricks of the trade–you never know when one might save your life.
 
-**Acquire** — A card's Acquire text is carried out one time, when you acquire it from the Dungeon Row (not when you play it later from your hand).
+### Acquire (page 10) 
+
+A card's Acquire text is carried out one time, when you acquire it from the Dungeon Row (not when you play it later from your hand).
 
 > Image of "Acquire" with a heart icon
 
-**Arrive** — A card's Arrive text is carried out when the card is revealed (before any Dragon Attack that may also have been triggered by refilling the Dungeon Row at the end of a turn).
+### Arrive (page 10) 
+
+A card's Arrive text is carried out when the card is revealed (before any Dragon Attack that may also have been triggered by refilling the Dungeon Row at the end of a turn).
 
 > Image of "Arrive" with a exclamation mark(!)
 
-**Danger** — For each Danger card in the Dungeon Row, you pull an additional cube from the Dragon Bag during each Dragon Attack.
+### Danger 
+
+For each Danger card in the Dungeon Row, you pull an additional cube from the Dragon Bag during each Dragon Attack.
 
 > Image of "Danger" card with a Dungeon card image.
 
-**Discard** — Some cards ask you to discard a card. You can only discard cards in your hand that you haven't played yet. The card does not have its normal effect, which means discarding can be a useful way to get around cards that generate Clank! If you're asked to discard a card to get something, you must actually discard a card to get it.
+### Discard
+
+Some cards ask you to discard a card. You can only discard cards in your hand that you haven't played yet. The card does not have its normal effect, which means discarding can be a useful way to get around cards that generate Clank! If you're asked to discard a card to get something, you must actually discard a card to get it.
 
 Example: Sleight of Hand says "Discard a card to draw two cards." If you don't have a card in your hand to discard, you don't get to draw two cards.
 
-**Fountain of Healing** — When you enter a room with a Fountain of Healing, heal 1 damage.
+### Fountain of Healing
 
-**Market** — On the reverse side of the board, the Market is not a single group of spaces near the center of the dungeon. Instead, traveling merchants can be found on spaces scattered throughout the dungeon.
+When you enter a room with a Fountain of Healing, heal 1 damage.
 
-**Order of Card Plays** — Some cards have effects that depend on things you have, such as cards in your play area, or items you've collected. You get these effects even if you play the card first and then get the thing you need later in your turn.
+### Market 
+
+On the reverse side of the board, the Market is not a single group of spaces near the center of the dungeon. Instead, traveling merchants can be found on spaces scattered throughout the dungeon.
+
+### Order of Card Plays
+
+Some cards have effects that depend on things you have, such as cards in your play area, or items you've collected. You get these effects even if you play the card first and then get the thing you need later in your turn.
 
 Examples: Rebel Scout says "If you have another companion in your play area, draw a card." You draw the card whether you play the other companion before or after the Rebel Scout.
 
 The Mountain King says "If you have a crown, + (Icon of a sword in a red background circle) and + (Icon of a boot in a yellow background square)." If you play him and later buy a crown from the market, you still get the additional Sword and Boot.
 
-**Play Area** — When you play cards during your turn, they go to a play area in front of you. This helps keep track of the cards you've used this turn. Note that if you have to reshuffle your discard pile during your turn, these cards are not included.
+### Play Area
 
-**Reserve** — The Mercenary, Explore, and Secret Tome cards in the Reserve are limited. The Reserve can run out of these cards if players acquire enough of them.
+When you play cards during your turn, they go to a play area in front of you. This helps keep track of the cards you've used this turn. Note that if you have to reshuffle your discard pile during your turn, these cards are not included.
 
-**Running Out of Clank!** — If you ever run out of cubes in your personal supply, then you can't choose to take damage while moving through tunnels. But you also can't be forced to add any more Clank!—you get off free! (At least until you get any cubes back from healing. Nothing's free forever.)
+### Reserve 
 
-**Teleport** — Teleportation is a special form of movement that allows you to move to any room connected to your current room. You do not need to use Boots or fight any monsters in the tunnel. You can even use locked or one-way passages that you normally couldn't. Remember that on the turn you enter a Crystal Cave room (by any means), you can't use any Boots for the rest of the turn.
+The Mercenary, Explore, and Secret Tome cards in the Reserve are limited. The Reserve can run out of these cards if players acquire enough of them.
 
-**Trash** — Some cards and effects can cause you to trash a card. This removes the chosen card from your deck entirely, which is a great thing to do to the relatively weak cards that make up your starting deck. When you trash a card, you choose one from your discard pile (or your play area) and return it to the box at the end of the turn.
+### Running Out of Clank!
 
-**"Wrap-around" Tunnels** — Tunnels that go off the edge of the game board connect to the opposite side of the board. They only require one Boot, like other normal tunnels.
+If you ever run out of cubes in your personal supply, then you can't choose to take damage while moving through tunnels. But you also can't be forced to add any more Clank!—you get off free! (At least until you get any cubes back from healing. Nothing's free forever.)
+
+### Teleport
+
+Teleportation is a special form of movement that allows you to move to any room connected to your current room. You do not need to use Boots or fight any monsters in the tunnel. You can even use locked or one-way passages that you normally couldn't. Remember that on the turn you enter a Crystal Cave room (by any means), you can't use any Boots for the rest of the turn.
+
+### Trash
+
+Some cards and effects can cause you to trash a card. This removes the chosen card from your deck entirely, which is a great thing to do to the relatively weak cards that make up your starting deck. When you trash a card, you choose one from your discard pile (or your play area) and return it to the box at the end of the turn.
+
+### "Wrap-around" Tunnels
+
+Tunnels that go off the edge of the game board connect to the opposite side of the board. They only require one Boot, like other normal tunnels.
 
 ## Field Reference Guide (page 12)
 
