@@ -1,10 +1,9 @@
 [do-you-get-mastery-bonus-if-you-teleport-out](https://boardgamegeek.com/thread/2032532/do-you-get-mastery-bonus-if-you-teleport-out)
 
-> As title. Can you get 20 points on top of an easy escape if you teleport from the bottom of the dungeon to the inn? Or do you have to walk out the old-fashioned way to get the badge? Alternatively, does "Any card that can teleport you to an “adjacent room” can be used to leave the dungeon" mean "leave the dungeon *from the first dungeon space*"? Because if so that's very poorly worded.
+> Can you get the 20 point mastery bonus if you teleport from the bottom of the dungeon to the inn? Or do you have to walk out the old-fashioned way to get the badge?
 
-Teleport — Teleportation is a special form of movement that allows you to move to any room connected to your current room.
-Technically leaving the dungeon is not moving to a room. The FAQ means you can still use teleport to leave the dungeon from the first room inside the dungeon, even though you are not moving "to any room connected to your current room."
-Edit: You can only exit the dungeon from the first room by the entrance. You are not allowed to teleport from the bottom of the dungeon.
+Teleportation is a special form of movement that allows you to move to any room connected to your current room. 
+You can only exit the dungeon from the first room by the entrance. You are not allowed to teleport from the bottom of the dungeon.
 
 [dragons-eye-mastery-token](https://boardgamegeek.com/thread/1667876/dragons-eye-mastery-token)
 
@@ -14,7 +13,7 @@ The 20 point token for returning to town.
 
 [countdown-track-drawing-extra-cubes](https://boardgamegeek.com/thread/1712890/countdown-track-drawing-extra-cubes)
 
-> When a dragon attack is triggered by revealing a card and a meeple is currently on space 2,3, or 4 of the countdown track (though it's not that player's turn), are extra cubes drawn from the bag, treating them like the extra cube on "Danger" cards? Right now, we are only drawing the extra cubes during the player's turn who is on the Countdown Track.
+> When a dragon attack is triggered by revealing a card and a meeple is currently on space 2, 3, or 4 of the countdown track (though it's not that player's turn), are extra cubes drawn from the bag, treating them like the extra cube on "Danger" cards? Right now, we are only drawing the extra cubes during the player's turn who is on the Countdown Track.
 
 You're playing correctly. Those icons do not affect normal dragon attacks triggered by dungeon cards.
 
@@ -28,19 +27,19 @@ Yes, the pending clank cubes are always put in the bag before resolving a dragon
 
 > What is the so called “play area” exactly?
 
-The play area is wherever you place cards from your hand into play (usually right in front of you). Cards in play are contributing to your pool of resources (skill, boots, swords), while of course cards in your hand and discard are not. As cards in play can affect cards still in your hand (discard a card, e.g.) or cards in your play area/discard pile (trash a card, e.g.), it’s useful to clearly distinguish between play area, discard pile, and your hand.
+The play area is wherever you place cards from your hand into play (usually right in front of you). Cards in play are contributing to your pool of resources (skill, boots, swords), while of course cards in your hand and discard are not. 
 
 [market-refresh](https://boardgamegeek.com/thread/3342721/market-refresh)
 
-> After you buy a card is the market immediately refreshed? Additionally, when going into a room with multiple minor secrets are you able to look and choose which one you want? Or do you take one at random?
+> After you buy a card is the market immediately refreshed? 
 
-No, the Dungeon Row is only refreshed at the end of a player’s turn, not immediately after buying a card. This timing is crucial because it impacts when Dragon attacks can be triggered. For the minor secrets, you don’t get to look and choose which one you want if there are multiple; you simply draw one at random.
+No, the Dungeon Row is only refreshed at the end of a player’s turn, not immediately after buying a card.
+
+> when going into a room with multiple minor secrets are you able to look and choose which one you want? Or do you take one at random?
+
+For the minor secrets, you don’t get to look and choose which one you want if there are multiple; you simply draw one at random.
 
 [disadvantage-first-player-escaping-the-dungeon](https://boardgamegeek.com/thread/1908669/disadvantage-first-player-escaping-the-dungeon)
-
-> if the first player leaving the dungeon has a disadvantage as he or she is not allowed to buy cards with victorypoints after leaving. In addtion we were wondering if it wouldn't be better to reduce the bonus points for the following players leaving the dungeon e.g. by 5 for giving the first player a real reward with the 20 points.
-
-It clarifies that leaving the dungeon first starts a timer, which pressures others but also limits the first player’s chance to gain points by buying cards or collecting more treasure. Staying longer can help players accumulate points, but it increases the risk of getting knocked out. Balancing exit timing is key to maximizing points while avoiding damage.
 
 [rules-question](https://boardgamegeek.com/thread/1936098/rules-question)
 
