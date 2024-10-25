@@ -12,13 +12,15 @@ Edit: You can only exit the dungeon from the first room by the entrance. You are
 
 The 20 point token for returning to town.
 
-> A follow on question, when the dragon attack is initiated on the countdown track do you add any clank cubes on the board to the bag prior to drawing?
-
-Yes, the pending clank cubes are always put in the bag before resolving a dragon attack.
-
 [countdown-track-drawing-extra-cubes](https://boardgamegeek.com/thread/1712890/countdown-track-drawing-extra-cubes)
 
-> 
+> When a dragon attack is triggered by revealing a card and a meeple is currently on space 2,3, or 4 of the countdown track (though it's not that player's turn), are extra cubes drawn from the bag, treating them like the extra cube on "Danger" cards? Right now, we are only drawing the extra cubes during the player's turn who is on the Countdown Track.
+
+You're playing correctly. Those icons do not affect normal dragon attacks triggered by dungeon cards.
+
+> When the dragon attack is initiated on the countdown track do you add any clank cubes on the board to the bag prior to drawing?
+
+Yes, the pending clank cubes are always put in the bag before resolving a dragon attack.
 
 [making-sure-dragon-attack-early-in-game](https://boardgamegeek.com/thread/1820960/making-sure-dragon-attack-early-in-game)
 
