@@ -26,9 +26,21 @@ Yes, the pending clank cubes are always put in the bag before resolving a dragon
 
 [play-area](https://boardgamegeek.com/thread/2360825/play-area)
 
+> What is the so called “play area” exactly?
+
+The play area is wherever you place cards from your hand into play (usually right in front of you). Cards in play are contributing to your pool of resources (skill, boots, swords), while of course cards in your hand and discard are not. As cards in play can affect cards still in your hand (discard a card, e.g.) or cards in your play area/discard pile (trash a card, e.g.), it’s useful to clearly distinguish between play area, discard pile, and your hand.
+
 [market-refresh](https://boardgamegeek.com/thread/3342721/market-refresh)
 
+> After you buy a card is the market immediately refreshed? Additionally, when going into a room with multiple minor secrets are you able to look and choose which one you want? Or do you take one at random?
+
+No, the Dungeon Row is only refreshed at the end of a player’s turn, not immediately after buying a card. This timing is crucial because it impacts when Dragon attacks can be triggered. For the minor secrets, you don’t get to look and choose which one you want if there are multiple; you simply draw one at random.
+
 [disadvantage-first-player-escaping-the-dungeon](https://boardgamegeek.com/thread/1908669/disadvantage-first-player-escaping-the-dungeon)
+
+> if the first player leaving the dungeon has a disadvantage as he or she is not allowed to buy cards with victorypoints after leaving. In addtion we were wondering if it wouldn't be better to reduce the bonus points for the following players leaving the dungeon e.g. by 5 for giving the first player a real reward with the 20 points.
+
+It clarifies that leaving the dungeon first starts a timer, which pressures others but also limits the first player’s chance to gain points by buying cards or collecting more treasure. Staying longer can help players accumulate points, but it increases the risk of getting knocked out. Balancing exit timing is key to maximizing points while avoiding damage.
 
 [rules-question](https://boardgamegeek.com/thread/1936098/rules-question)
 
