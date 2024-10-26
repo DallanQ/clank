@@ -119,23 +119,67 @@ Yes, your turn ends immediately if you are knocked out. However, you can choose 
 
 [search-and-secrets-that-count-as-gold](https://boardgamegeek.com/thread/1793926/search-and-secrets-that-count-as-gold)
 
+>  If I collect a "2 gold" or "5 gold" secret during a turn in which I've played Search ("Each time you gain gold this turn, gain 1 extra gold"), do I gain 1 extra gold from Search, or does collecting the treasure not count as actually gaining gold since I didn't physically take any coins?
+
+ Collecting a "2 gold" or "5 gold" secret does not count as gaining gold for the purpose of Search. The rules specify that "gaining gold" involves taking it from the Bank, which differs from finding gold through secrets. Therefore, Search does not provide extra gold for found treasures.
+
 [intentional-death-allowed](https://boardgamegeek.com/thread/2693318/intentional-death-allowed)
+
+> Is intentional death allowed?
+
+No, intentional death is not allowed. According to the rules on page 8, under Step 4: The Getaway, players cannot intentionally take damage to facilitate their escape from the dungeon.
 
 [question-regarding-the-app-rules](https://boardgamegeek.com/thread/2252657/question-regarding-the-app-rules)
 
+>  When using the Renegade app in multiplayer, does a mini-boss animation indicate an immediate damage cube, or does the player need to add Clank?
+
+In multiplayer, follow the text prompt from the app. The mini-boss animation itself does not indicate a damage cube or Clank. Instead, any required action will be specified by the app text upon pressing the button.
+
 [empty-clank-bag](https://boardgamegeek.com/thread/1786164/empty-clank-bag)
+
+> What happens if the dragon attacks and there are no cubes in the bag?
+
+If the dragon attacks and there are no cubes left in the bag, no cubes are drawn, and the attack has no effect.
 
 [market-clarification](https://boardgamegeek.com/thread/2225522/market-clarification)
 
+> Are you allowed to stay in a market and buy? Are you only limited to one item each time?
+
+You can buy as many items as you can afford when you're on the market space. Each purchase is a separate action, allowing you to buy multiple items in a single turn.
+
 [purchasing-a-device-card-in-clank](https://boardgamegeek.com/thread/1738654/purchasing-a-device-card-in-clank)
+
+> The rules mention that when you purchase a device card (purple banner), it does not become part of your deck and that you perform the USE text. The rules don't say that you have to perform the USE immediately. Can you save one or more device cards and use them when needed in the future, or do you have to perform the USE immediately after purchase? 
+
+You must perform the USE text immediately after purchasing a device card. The rules specify that the card is removed from the game after use, similar to defeating a monster. There is no provision in the rules for setting it aside for later use.
 
 [doubling-backmovement-question](https://boardgamegeek.com/thread/2367659/doubling-backmovement-question)
 
+> Are you allowed to double back when moving in one turn? For example, can you move from space A to space B, then space C, back to space B, and finally return to space A? Additionally, is looping back around via the board layout allowed (e.g., moving from space A to space B to space C to space D and then back to space A)? 
+
+Yes, you are allowed to double back when moving in one turn. The rules do not prohibit returning to previously visited spaces. You can even leave a minor secret space and re-enter it to gain another minor secret. However, it's generally more beneficial to focus on forward movement, as backtracking may hinder your progress.
+
 [question-about-picking-card-with-companion](https://boardgamegeek.com/thread/1728233/question-about-picking-card-with-companion)
+
+> When using the rule that allows you to draw a card by having a companion in play, is it one card drawn only if you have one companion in play, or is it one card drawn for each companion? The card text states: "If you have another companion in your play area, draw a card."
+
+It is one card drawn, regardless of how many companions you have in play. You only draw one card when the condition is met.
+
+> If you have three companions in your hand, does the drawing effect of the first companion trigger, allowing you to draw three cards? Or do you not count the first effect since you had no companions on the table before?
+
+You only draw one card, no matter how many companions you have. The card effect states, "If you have another companion in your play area, draw a card," and this applies regardless of the order in which you play your cards.
 
 [2-questions-on-tokens](https://boardgamegeek.com/thread/1739461/2-questions-on-tokens)
 
-[underworld-dealing](https://boardgamegeek.com/thread/1697197/underworld-dealing)
+> When a player enters a room with two minor tokens, is it just a random choice of token?
+
+Each time you enter a room with a token, you can pick one up. You can only take one token and cannot look at both if there are two. It doesn't matter whether you take the top or bottom token, as they were shuffled.
+
+> If a player moves into two rooms during their turn, with tokens in each, will they get tokens from both rooms, or only in the room where they have ended movement?
+
+When you enter a room with a secret token, you take it immediately. If you have enough movement, you could enter a room with two minor tokens, take one, leave the room, and then re-enter to take the second one in the same turn. You get a token from each room you visit upon your choice.
+
+[underworld-dealing](https://boardgamegeek.com/thread/1697197/underworld-dealing) 
 
 [plus-1-clank-when-using-a-sword](https://boardgamegeek.com/thread/1667933/plus-1-clank-when-using-a-sword)
 
