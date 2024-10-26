@@ -55,13 +55,29 @@ Attacks only happen when revealed in the dungeon row (or unless stated explicitl
 
 [resources-on-cards](https://boardgamegeek.com/thread/1758632/resources-on-cards)
 
+> Can I use all the resources on a card or choose only 1? E.g. if a card has both boots and swords can use that card on my turn both for moving and fighting?
+
+You can use all the resources listed on the top left portion of the card. No need to pick and choose. You can use all of them!
+
 [pickaxe-and-rebel-minor-question](https://boardgamegeek.com/thread/1658978/pickaxe-and-rebel-minor-question)
 
 [master-burglar](https://boardgamegeek.com/thread/1695944/master-burglar)
 
+> When a Burglar is played, then trashed due to Master Burglar, does the skill point on the Burglar still count for the turn? We played as yes, since the rulebook states that resources count as soon as you play the card, but just want to clarify.
+
+Yes, you still receive the skill point from the Burglar card, even if it is later trashed by Master Burglar. The resources are available as soon as you play the card, per the rulebook.
+
 [endgame-question](https://boardgamegeek.com/thread/3343975/endgame-question)
 
+> If a player has no artifact but is on the upper side of the dungeon, does this player score any points? The rule section about players being out of the competition mentions being knocked out after losing all 10 points of life. But if the player isn’t knocked out and it's endgame, does the same 'no score' condition apply?
+
+To score points, a player must possess at least one artifact and be above ground. Without an artifact, a player cannot fully escape the dungeon, even if they're above the depths. Rules clarify that players knocked out above ground can be rescued only if they hold an artifact; otherwise, they don’t score.
+
 [can-i-pick-up-a-tresure-by-taking-a-turn-later-aft](https://boardgamegeek.com/thread/3223110/can-i-pick-up-a-tresure-by-taking-a-turn-later-aft)
+
+>  After finishing a turn on a square containing a treasure, I decide not to pick it up. However, at the next turn's start, I regret my decision and want to collect it. Do I need to leave that square and re-enter to pick it up, or can I start the turn by taking it and then move to another square?
+
+You would need to re-enter the square to pick up the treasure. However, it’s worth noting that the rules were updated, and you can now choose to pick up an artifact later, rather than only when you first enter the room.
 
 [errata-needed-for-climbing-gear-card](https://boardgamegeek.com/thread/1770945/errata-needed-for-climbing-gear-card)
 
