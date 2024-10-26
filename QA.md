@@ -81,17 +81,41 @@ You would need to re-enter the square to pick up the treasure. However, it’s w
 
 [errata-needed-for-climbing-gear-card](https://boardgamegeek.com/thread/1770945/errata-needed-for-climbing-gear-card)
 
+> Regarding the Climbing Gear card, which states, "You may discard a card to gain a +Boot," does this mean I can discard multiple cards for multiple movement points, or is it limited to one card for one movement point?
+
+"A card" is just one card in all cases like this. The Climbing Gear card allows you to discard one card to gain a + Boot. Each card's text is used only once per turn unless another card allows reuse of a card.
+
 [dwarven-peddler-clarification](https://boardgamegeek.com/thread/1759767/dwarven-peddler-clarification)
 
+> The card reads, "Worth 4 victory points if you have two of the following: chalice, dragon egg, and monkey idol." Are you required to have two distinct items? For example, can you claim the points if you have two dragon eggs but no monkey idol or chalice?
+
+You do not qualify for the points with two of the same item. You need two distinct items from the list to earn the 4 victory points.
+
 [game-over-companion-app](https://boardgamegeek.com/thread/1903223/game-over-companion-app)
+
+> When playing solo with the Companion App, should I press the Game Over button as soon as I exit the dungeon, or after progressing along the Countdown Track to the fifth space?
+
+In solo play, the game ends as soon as you leave the dungeon, so you should press the Game Over button at that point. The Countdown Track is not used since there are no other players remaining in the dungeon.
 
 [best-variant-for-two-players](https://boardgamegeek.com/thread/2899553/best-variant-for-two-players)
 
 [dragon-attack-rules](https://boardgamegeek.com/thread/1823174/dragon-attack-rules)
 
+> If you purchase a dragon card from the river and then play it, does that initiate another dragon attack?
+
+No, a dragon attack only occurs when a dragon card enters the river, not when it is purchased or played. 
+
 [minor-secrets](https://boardgamegeek.com/thread/1902128/minor-secrets)
 
+> I own the German version of the game and have read about 2 minor secrets being placed in one room, but I don’t see this indicated on the board or in the rules. Should there be 2 minor secrets in each room at the start?
+
+Yes, 2 minor secrets should be placed in each room at the start. In the German version, an error in the rules incorrectly states only 1 secret per room. The publisher corrected this by including a sticker with the updated rule in all copies. 
+
 [being-knocked-out-during-turn](https://boardgamegeek.com/thread/2746701/being-knocked-out-during-turn)
+
+> If I am knocked out during my turn (for example, by playing Mister Whiskers), does my turn end immediately?
+
+Yes, your turn ends immediately if you are knocked out. However, you can choose the order in which to play your cards, so any actions that could knock you out can be delayed until the end of your turn if preferred.
 
 [search-and-secrets-that-count-as-gold](https://boardgamegeek.com/thread/1793926/search-and-secrets-that-count-as-gold)
 
