@@ -75,7 +75,7 @@ To score points, a player must possess at least one artifact and be above ground
 
 [can-i-pick-up-a-tresure-by-taking-a-turn-later-aft](https://boardgamegeek.com/thread/3223110/can-i-pick-up-a-tresure-by-taking-a-turn-later-aft)
 
->  After finishing a turn on a square containing a treasure, I decide not to pick it up. However, at the next turn's start, I regret my decision and want to collect it. Do I need to leave that square and re-enter to pick it up, or can I start the turn by taking it and then move to another square?
+> After finishing a turn on a square containing a treasure, I decide not to pick it up. However, at the next turn's start, I regret my decision and want to collect it. Do I need to leave that square and re-enter to pick it up, or can I start the turn by taking it and then move to another square?
 
 You would need to re-enter the square to pick up the treasure. However, it’s worth noting that the rules were updated, and you can now choose to pick up an artifact later, rather than only when you first enter the room.
 
@@ -119,7 +119,7 @@ Yes, your turn ends immediately if you are knocked out. However, you can choose 
 
 [search-and-secrets-that-count-as-gold](https://boardgamegeek.com/thread/1793926/search-and-secrets-that-count-as-gold)
 
->  If I collect a "2 gold" or "5 gold" secret during a turn in which I've played Search ("Each time you gain gold this turn, gain 1 extra gold"), do I gain 1 extra gold from Search, or does collecting the treasure not count as actually gaining gold since I didn't physically take any coins?
+> If I collect a "2 gold" or "5 gold" secret during a turn in which I've played Search ("Each time you gain gold this turn, gain 1 extra gold"), do I gain 1 extra gold from Search, or does collecting the treasure not count as actually gaining gold since I didn't physically take any coins?
 
  Collecting a "2 gold" or "5 gold" secret does not count as gaining gold for the purpose of Search. The rules specify that "gaining gold" involves taking it from the Bank, which differs from finding gold through secrets. Therefore, Search does not provide extra gold for found treasures.
 
@@ -131,7 +131,7 @@ No, intentional death is not allowed. According to the rules on page 8, under St
 
 [question-regarding-the-app-rules](https://boardgamegeek.com/thread/2252657/question-regarding-the-app-rules)
 
->  When using the Renegade app in multiplayer, does a mini-boss animation indicate an immediate damage cube, or does the player need to add Clank?
+> When using the Renegade app in multiplayer, does a mini-boss animation indicate an immediate damage cube, or does the player need to add Clank?
 
 In multiplayer, follow the text prompt from the app. The mini-boss animation itself does not indicate a damage cube or Clank. Instead, any required action will be specified by the app text upon pressing the button.
 
@@ -185,21 +185,67 @@ When you enter a room with a secret token, you take it immediately. If you have 
 
 [was-this-end-game-correct](https://boardgamegeek.com/thread/1837506/was-this-end-game-correct)
 
+> If a player is knocked out in the depths due to a dragon attack after a new market card with a dragon symbol is drawn, does that player automatically lose, even if they reach the first space of the castle?
+
+Yes, the rules specify that if a player is knocked out in the depths, they automatically lose, as they cannot be rescued. If a player is knocked out above the depths, villagers can rescue them, allowing them to keep their collected items but without the 20-point bonus for exiting the dungeon on their own. Since you were knocked out in the depths, you lose automatically, even if you later reach the castle space.
+
 [drawing-cards](https://boardgamegeek.com/thread/1869469/drawing-cards)
 
-[coin-purse-discard](https://boardgamegeek.com/thread/1772141/coin-purse-discard)
+> If I draw my entire deck during a turn and need to draw additional cards, what is the correct solution? For example, I encountered an infinite loop where I could endlessly cycle through my deck and gain infinite resources by repeatedly drawing and reshuffling.
 
-[treasure-hunter-card-ignore-clarification](https://boardgamegeek.com/thread/3031514/treasure-hunter-card-ignore-clarification)
+You should place all played cards in front of you rather than directly into your discard pile. At the end of your turn, place everything you've played or bought into your discard pile. This prevents an infinite loop, as you cannot draw more cards once you've played through your entire deck. This solution ensures that you can only cycle through your deck once per turn, ending your turn once you’ve drawn and played all available cards.
 
-[questions-about-the-end-of-the-line-or-countdown-t](https://boardgamegeek.com/thread/2288512/questions-about-the-end-of-the-line-or-countdown-t)
+[coin-purse-discard](https://boardgamegeek.com/thread/1772141/coin-purse-discard) 
+
+> The Coin Purse card says it gives 2 coins when played, but provides 5 coins if discarded. Does "discard" here mean removing it permanently (trashing), or just placing it in the discard pile? And if it does mean "trash," don’t you need a Magic Spring token to do that? 
+
+"Discard" on the Coin Purse card does not mean to trash it permanently; it simply requires placing it in the discard pile, not removing it from play. This effect activates only if another card allows you to discard it (such as "Sleight of Hand"), not when you naturally discard at the end of your turn. 
+
+[treasure-hunter-card-ignore-clarification](https://boardgamegeek.com/thread/3031514/treasure-hunter-card-ignore-clarification) 
+
+>  What does “ignore dragon symbol” mean on the Treasure Hunter card? 
+
+It means that if you replace a card in the dungeon row and the new card has a dragon attack symbol, you simply ignore the symbol, so the dragon does not attack. You still place the card in the dungeon row; only the attack symbol is ignored.
+
+[questions-about-the-end-of-the-line-or-countdown-t](https://boardgamegeek.com/thread/2288512/questions-about-the-end-of-the-line-or-countdown-t) 
+
+> When a player advances one space on the Countdown Track, do the cubes in the Clank! area get added to the bag before drawing? Is it treated as a regular dragon attack with just a different number of cubes drawn?
+
+Yes, you add the cubes from the Clank! area to the bag before drawing. It is treated as a regular dragon attack with the number of cubes specified by the Countdown Track. 
+
+> On the second space of the Countdown Track, do you pull only 1 cube, or do you add it to the dragon’s current attack level, pulling 5+1=6 cubes if the dragon's marker is at 5? 
+
+For the second space on the Countdown Track, you draw the usual number of cubes per the dragon’s current position plus 1, so it would be 5+1=6 if the dragon's marker is on 5. 
 
 [randomized-artifacts](https://boardgamegeek.com/thread/1762011/randomized-artifacts)
 
+> Has anyone tried randomizing the placement of artifacts? It seems like it could add more randomness to the game. Should an additional objective be added to balance out a high-value treasure being placed near the top? 
+
+Randomizing artifact placement could add more variety, but it may lead to imbalances, especially if high-value artifacts end up closer to the starting area. This could make the game more luck-driven, as reaching high-value artifacts early might give an advantage unrelated to strategy or deck strength.
+
 [teleport-question](https://boardgamegeek.com/thread/3079159/teleport-question)
 
-[confused-about-minor-secrets](https://boardgamegeek.com/thread/2873206/confused-about-minor-secrets)
+> Can the card with the ability "teleport to an adjacent room" allow me to pass through rooms with a lock icon, and can I move in the opposite direction of an arrowed tunnel? 
 
-[running-out-of-cubes](https://boardgamegeek.com/thread/1659153/running-out-of-cubes)
+Yes, teleporting lets you bypass all tunnel obstacles, including locked icons and directional arrows. However, you still need a connecting hallway between rooms, and you may be stuck if your only exit requires teleporting again.
+
+[confused-about-minor-secrets](https://boardgamegeek.com/thread/2873206/confused-about-minor-secrets) 
+
+> Adventuring party expansion rules suggests you keep the minor secrets in a bank at the side of the board. How does this change the game? Does this mean that if you enter multiple minor secret spots you simply take multiple secrets from the bank?
+
+Only one minor secret per room per turn (no flip-flopping back and forth a bunch to get a stack of minor secrets), but no limit to the number of minor secrets available over the course of the game. Spent minor secrets are returned to the bank. This is how it is in Clank! Legacy too, and I much prefer it.
+
+> I assume if you enter the same location a second time in the same turn then you wouldn't take a second secret, right? 
+
+It is possible (though uncommon) to run out of minor secrets during the game; in these cases, you get nothing when entering a minor secret space. 
+
+> Does this mean there is no limit to how many times you can take a secret from a room? Usually, once the secrets in a room are gone, that room generates no more secrets, but how does this work now?
+
+Rooms cannot run out of secrets until the bank runs out of secrets.
+
+[running-out-of-cubes](https://boardgamegeek.com/thread/1659153/running-out-of-cubes) 
+
+
 
 [countdown-track](https://boardgamegeek.com/thread/1705218/countdown-track)
 
