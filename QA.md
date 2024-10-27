@@ -245,11 +245,17 @@ Rooms cannot run out of secrets until the bank runs out of secrets.
 
 [running-out-of-cubes](https://boardgamegeek.com/thread/1659153/running-out-of-cubes) 
 
+[countdown-track](https://boardgamegeek.com/thread/1705218/countdown-track) 
 
+> Can multiple player pawns be on the countdown track, or is it only for the first player to leave the dungeon? 
 
-[countdown-track](https://boardgamegeek.com/thread/1705218/countdown-track)
+Only the first player to exit the dungeon (or be knocked out) uses the countdown track. According to the rulebook, once the first player is out, they place their pawn on the track, and it acts as a timer for the remaining rounds.
 
 [taking-damage-in-a-tunnel-with-monster](https://boardgamegeek.com/thread/2572746/taking-damage-in-a-tunnel-with-monster)
+
+> Can you avoid taking damage from a monster tunnel if you acquire swords later in your turn? Additionally, if your damage track fills and you still have health potions, can you use them to avoid being knocked out? 
+
+No, you cannot retroactively use swords gained after moving through a monster tunnel. Damage from a monster tunnel is applied immediately as you cross, and any swords must be available at that time to prevent it. If you acquire swords later in the turn, they cannot be applied to avoid earlier damage. Similarly, if your damage track fills, you are immediately knocked out and cannot retroactively use a health potion to avoid it. 
 
 [questions](https://boardgamegeek.com/thread/1655035/questions)
 
