@@ -277,13 +277,33 @@ Yes, you can use the Wand of Wind to take a secret from an adjacent room, even i
 
 [where-to-leave-the-dungeon-and-what-are-the-hands](https://boardgamegeek.com/thread/1771766/where-to-leave-the-dungeon-and-what-are-the-hands)
 
+> How do you leave the dungeon? Is it by going to the entrance? Also, what do the hands on the board signify? There are two hands showing outside the dungeon along the ways. Are they indicating the exit? 
+
+You exit the dungeon the same way you enter, at the entrance in the top left corner of the board. The hands indicate that the board "wraps around" at that point, allowing you to move from one side to the other as a shortcut, rather than traveling all the way across the board.
+
 [2qs-negative-clank-dungeon-row-refreshment](https://boardgamegeek.com/thread/2786718/2qs-negative-clank-dungeon-row-refreshment)
 
 [are-secrets-gaining](https://boardgamegeek.com/thread/1759350/are-secrets-gaining)
 
-[two-questions](https://boardgamegeek.com/thread/1828568/two-questions)
+> Does collecting a Secret count as "gaining" gold for the purposes of the "Search" card, which allows you to gain an extra gold each time you gain any gold?
+
+Yes, collecting a Secret counts as "gaining" gold, as you end up with more gold than you had before.
+
+[two-questions](https://boardgamegeek.com/thread/1828568/two-questions) 
+
+>  If you have Mr. Whiskers and no Clank to remove, can you still perform the remove action if you don't want to attack with the dragon?
+
+Yes, you can choose the -2 Clank option even if you have no Clank in the pool.
+
+> Can you buy more than two of the same items? If so, does buying both backpacks mean you can carry three artifacts?
+
+Yes, you can buy more than two of the same item, so having two backpacks allows you to carry three artifacts, each being unique since none of the artifacts are duplicated.
 
 [hand-icon-on-tunnel](https://boardgamegeek.com/thread/1908063/hand-icon-on-tunnel)
+
+> What does the hand icon mean on the tunnel? There are two tunnels with the hand icon on the edge of the board.
+
+The hand icon indicates that the tunnels are connected. You can move from one side of the board to the other using that tunnel. According to the rulebook, "Wrap-around” Tunnels — Tunnels that go off the edge of the game board connect to the opposite side of the board. They only require one Boot, like other normal tunnels (see page 10, Advanced Maneuvers).
 
 [running-out-of-clank](https://boardgamegeek.com/thread/1705314/running-out-of-clank)
 
