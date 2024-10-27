@@ -259,9 +259,21 @@ No, you cannot retroactively use swords gained after moving through a monster tu
 
 [questions](https://boardgamegeek.com/thread/1655035/questions)
 
-[using-a-device](https://boardgamegeek.com/thread/1654735/using-a-device)
+> Do I have to play all the cards in my hand each turn, including "Stumble"? And can I pick up or buy more Monkey Idols, Crowns, or Backpacks?
 
-[question-on-adjacency](https://boardgamegeek.com/thread/1753590/question-on-adjacency)
+Yes, you must play all the cards in your hand each turn, including "Stumble." The only way to avoid playing a card like "Stumble" is by using other cards that allow you to discard, such as Sleight of Hand or Apothecary.
+
+[using-a-device](https://boardgamegeek.com/thread/1654735/using-a-device) 
+
+> Do you need to use a device immediately when you acquire it, or can you hold onto it for later use?
+
+Devices must be used immediately when acquired and cannot be held for later use. According to the rules, devices are used at the moment they are acquired and are then placed in the Dungeon discard pile, not added to your deck.
+
+[question-on-adjacency](https://boardgamegeek.com/thread/1753590/question-on-adjacency) 
+
+> Can I use the Wand of Wind to take a secret from a room connected by a one-way tunnel that I cannot normally travel down? Does "adjacent" include one-way tunnels in the opposite direction? 
+
+Yes, you can use the Wand of Wind to take a secret from an adjacent room, even if it’s connected by a one-way tunnel in the opposite direction. "Adjacent" in this context refers to any room connected by a path, regardless of direction, locks, or monsters.
 
 [where-to-leave-the-dungeon-and-what-are-the-hands](https://boardgamegeek.com/thread/1771766/where-to-leave-the-dungeon-and-what-are-the-hands)
 
