@@ -187,7 +187,7 @@ When you enter a room with a secret token, you take it immediately. If you have 
 
 > If a player is knocked out in the depths due to a dragon attack after a new market card with a dragon symbol is drawn, does that player automatically lose, even if they reach the first space of the castle?
 
-Yes, the rules specify that if a player is knocked out in the depths, they automatically lose, as they cannot be rescued. If a player is knocked out above the depths, villagers can rescue them, allowing them to keep their collected items but without the 20-point bonus for exiting the dungeon on their own. Since you were knocked out in the depths, you lose automatically, even if you later reach the castle space.
+Yes, if a player is knocked out in the depths, they automatically lose, as they cannot be rescued. If knocked out above the depths, villagers can rescue them, allowing them to keep collected items but without the 20-point bonus for escaping on their own.
 
 [drawing-cards](https://boardgamegeek.com/thread/1869469/drawing-cards)
 
@@ -209,19 +209,15 @@ It means that if you replace a card in the dungeon row and the new card has a dr
 
 [questions-about-the-end-of-the-line-or-countdown-t](https://boardgamegeek.com/thread/2288512/questions-about-the-end-of-the-line-or-countdown-t) 
 
-> When a player advances one space on the Countdown Track, do the cubes in the Clank! area get added to the bag before drawing? Is it treated as a regular dragon attack with just a different number of cubes drawn?
+> When a player advances one space on the Countdown Track, do the cubes in the Clank! area get added to the bag before drawing?
 
-Yes, you add the cubes from the Clank! area to the bag before drawing. It is treated as a regular dragon attack with the number of cubes specified by the Countdown Track. 
+Yes, you add the cubes from the Clank! area to the bag before drawing. It is treated as a regular dragon attack with the number of cubes specified by the Countdown Track.
 
-> On the second space of the Countdown Track, do you pull only 1 cube, or do you add it to the dragon’s current attack level, pulling 5+1=6 cubes if the dragon's marker is at 5? 
+> On the second space of the Countdown Track, do you pull only 1 cube, or do you add it to the dragon’s current attack level, pulling 5+1=6 cubes if the dragon's marker is at 5?
 
 For the second space on the Countdown Track, you draw the usual number of cubes per the dragon’s current position plus 1, so it would be 5+1=6 if the dragon's marker is on 5. 
 
 [randomized-artifacts](https://boardgamegeek.com/thread/1762011/randomized-artifacts)
-
-> Has anyone tried randomizing the placement of artifacts? It seems like it could add more randomness to the game. Should an additional objective be added to balance out a high-value treasure being placed near the top? 
-
-Randomizing artifact placement could add more variety, but it may lead to imbalances, especially if high-value artifacts end up closer to the starting area. This could make the game more luck-driven, as reaching high-value artifacts early might give an advantage unrelated to strategy or deck strength.
 
 [teleport-question](https://boardgamegeek.com/thread/3079159/teleport-question)
 
@@ -230,10 +226,6 @@ Randomizing artifact placement could add more variety, but it may lead to imbala
 Yes, teleporting lets you bypass all tunnel obstacles, including locked icons and directional arrows. However, you still need a connecting hallway between rooms, and you may be stuck if your only exit requires teleporting again.
 
 [confused-about-minor-secrets](https://boardgamegeek.com/thread/2873206/confused-about-minor-secrets) 
-
-> Adventuring party expansion rules suggests you keep the minor secrets in a bank at the side of the board. How does this change the game? Does this mean that if you enter multiple minor secret spots you simply take multiple secrets from the bank?
-
-Only one minor secret per room per turn (no flip-flopping back and forth a bunch to get a stack of minor secrets), but no limit to the number of minor secrets available over the course of the game. Spent minor secrets are returned to the bank. This is how it is in Clank! Legacy too, and I much prefer it.
 
 > I assume if you enter the same location a second time in the same turn then you wouldn't take a second secret, right? 
 
@@ -325,15 +317,15 @@ Acquire effects can be either positive or negative, depending on the card. For e
 
 [confused-about-dragon-card](https://boardgamegeek.com/thread/1839314/confused-about-dragon-card) 
 
-> When a dragon card is drawn into the Dungeon Row, does it go straight to the discard pile after the dragon attack, or does it stay in the row? When and how is the bottom effect of the dragon card resolved? 
+> When a dragon card is drawn into the Dungeon Row, does it go to the discard pile after the dragon attack, or stay in the row? When and how is the bottom effect resolved?
 
-When a dragon card is drawn, it triggers a dragon attack immediately, but the card itself remains in the Dungeon Row afterward. It stays there until it is either purchased (if it’s a card) or defeated (if it’s a monster). The bottom effect or "Defeat" action is only resolved when a player buys or defeats the card, not upon its initial placement. Note that if multiple dragon cards are drawn in one refill, only one dragon attack is performed.
+When a dragon card is drawn, it triggers a dragon attack immediately but remains in the Dungeon Row until it is purchased or defeated. The bottom effect is resolved only when a player buys or defeats the card. If multiple dragon cards are drawn, only one attack is performed.
 
 [minor-secret-tokens](https://boardgamegeek.com/thread/3178619/minor-secret-tokens) 
 
-> How many of each type of "Minor Secret" token should there be according to the rulebook? I seem to be missing one. 
+> How many of each type of "Minor Secret" token should there be according to the rulebook? 
 
-The Clank! rulebook does not specify the exact count of each type of "Minor Secret" token, only that there are 18 tokens in total, divided among seven types: Potion of Healing, Potion of Swiftness, Potion of Strength, Skill Boost, Treasure, Magic Spring, and Dragon Egg. If you are missing a token, there is no exact distribution per type provided in the rulebook for comparison. 
+The Clank! rulebook states that there are 18 Minor Secret tokens in total, divided among seven types: Potion of Healing, Potion of Swiftness, Potion of Strength, Skill Boost, Treasure, Magic Spring, and Dragon Egg. However, it does not provide a breakdown of quantities by type. 
 
 [black-cubes](https://boardgamegeek.com/thread/1657218/black-cubes) 
 
@@ -353,15 +345,35 @@ All card effects in Clank! are mandatory unless specified otherwise. This includ
 
 Yes, teleporting is mandatory when a card instructs you to do so. However, you must teleport to an adjacent room; teleporting back to the same room is not allowed unless you reenter by other means.
 
-[companion-clarification](https://boardgamegeek.com/thread/2651372/companion-clarification)
+[companion-clarification](https://boardgamegeek.com/thread/2651372/companion-clarification)  
+
+> When a companion allows you to draw a card if you meet the requirements, which deck do you draw the card from?
+
+You always draw from your own deck, not the market or the dungeon deck.
 
 [purchase-in-market](https://boardgamegeek.com/thread/1759334/purchase-in-market)
 
-[dungeon-row-cards](https://boardgamegeek.com/thread/1988405/dungeon-row-cards)
+> When you're in a market room, can you buy only one item, or as many as you can afford? For example, could you buy both backpacks in a single visit if you have enough gold?
+
+You can buy as many items as you can afford when in a market room. There is no limit to the number of items you can purchase in a single turn as long as you have enough gold.
+
+[dungeon-row-cards](https://boardgamegeek.com/thread/1988405/dungeon-row-cards) 
+
+> If no one buys any cards from the Dungeon Row for a few turns, are you supposed to remove a card and replace it? We couldn’t find a rule for this, so we decided to remove the lowest-cost card each turn that no one buys anything. 
+
+The rules do not specify any requirement to remove cards from the Dungeon Row if they remain unpurchased. Cards that may initially seem less useful often find value later in the game as strategies evolve. The Dungeon Row remains unchanged until players buy cards, naturally shifting the row over time as purchases are made.
 
 [tunnels-with-footprints](https://boardgamegeek.com/thread/2264555/tunnels-with-footprints)
 
-[movement-and-buying](https://boardgamegeek.com/thread/2041510/movement-and-buying)
+> Can you move halfway down a tunnel with one Boot and then move the rest of the way on your next turn if you get another Boot?
+
+No, movement in Clank! requires you to spend Boots in the same turn to complete each move fully. You cannot stop halfway through a tunnel, as tunnels are not considered rooms where players can pause. All Boots needed for movement between rooms must be used during the same turn.
+
+[movement-and-buying](https://boardgamegeek.com/thread/2041510/movement-and-buying) 
+
+> Can I move into a market space, buy something, and then continue moving? 
+
+Yes, if you have enough Boot symbols, you can move into a market space, make a purchase, and continue moving. Movement and purchases are separate actions, so as long as you have sufficient Boots, you can keep moving after buying.
 
 [dungeon-row-sequential-or-all-at-once](https://boardgamegeek.com/thread/2547875/dungeon-row-sequential-or-all-at-once)
 
