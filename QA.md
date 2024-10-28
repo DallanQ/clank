@@ -305,21 +305,53 @@ Yes, you can buy more than two of the same item, so having two backpacks allows 
 
 The hand icon indicates that the tunnels are connected. You can move from one side of the board to the other using that tunnel. According to the rulebook, "Wrap-around” Tunnels — Tunnels that go off the edge of the game board connect to the opposite side of the board. They only require one Boot, like other normal tunnels (see page 10, Advanced Maneuvers).
 
-[running-out-of-clank](https://boardgamegeek.com/thread/1705314/running-out-of-clank)
+[running-out-of-clank](https://boardgamegeek.com/thread/1705314/running-out-of-clank) 
 
-[teleporting-back-into-the-dungeon](https://boardgamegeek.com/thread/2746702/teleporting-back-into-the-dungeon)
+> Can I still play a card that generates Clank if I am out of Clank cubes? 
 
-[aquire-cards-clarification](https://boardgamegeek.com/thread/1658887/aquire-cards-clarification)
+Yes, if you are out of Clank cubes, you can still play cards that generate Clank. According to the rules, if you have no Clank cubes left, you’re not required to add any more Clank to the Clank area. However, once you regain cubes through healing or other effects, you’ll need to add Clank as usual. 
 
-[confused-about-dragon-card](https://boardgamegeek.com/thread/1839314/confused-about-dragon-card)
+[teleporting-back-into-the-dungeon](https://boardgamegeek.com/thread/2746702/teleporting-back-into-the-dungeon) 
 
-[minor-secret-tokens](https://boardgamegeek.com/thread/3178619/minor-secret-tokens)
+> If I leave the dungeon and, later in the same turn, play a card that instructs me to teleport to a connected room, am I required to teleport back into the dungeon? 
 
-[black-cubes](https://boardgamegeek.com/thread/1657218/black-cubes)
+No, once you have left the dungeon, you are not allowed to reenter. Although teleport effects are generally mandatory, exiting the dungeon is intended to be final, with no reentry allowed. Any cards played after exiting that would require you to reenter can be ignored.
 
-[room-adjacency](https://boardgamegeek.com/thread/1691242/room-adjacency)
+[aquire-cards-clarification](https://boardgamegeek.com/thread/1658887/aquire-cards-clarification) 
 
-[optional-effects](https://boardgamegeek.com/thread/1828742/optional-effects)
+> Do the symbols on Acquire cards indicate negative effects? For example, does a heart symbol mean you take or remove damage, and does a +2 Clank symbol mean you add Clank? Do you need certain resources, like swords, to purchase these cards? 
+
+Acquire effects can be either positive or negative, depending on the card. For example, a heart symbol generally indicates healing, so you remove one damage when acquiring the card; you don’t need to be damaged beforehand. The +2 Clank symbol means you add two Clank to the Clank area when you acquire the card. You do not need specific resources, like swords, to purchase cards with these symbols. 
+
+[confused-about-dragon-card](https://boardgamegeek.com/thread/1839314/confused-about-dragon-card) 
+
+> When a dragon card is drawn into the Dungeon Row, does it go straight to the discard pile after the dragon attack, or does it stay in the row? When and how is the bottom effect of the dragon card resolved? 
+
+When a dragon card is drawn, it triggers a dragon attack immediately, but the card itself remains in the Dungeon Row afterward. It stays there until it is either purchased (if it’s a card) or defeated (if it’s a monster). The bottom effect or "Defeat" action is only resolved when a player buys or defeats the card, not upon its initial placement. Note that if multiple dragon cards are drawn in one refill, only one dragon attack is performed.
+
+[minor-secret-tokens](https://boardgamegeek.com/thread/3178619/minor-secret-tokens) 
+
+> How many of each type of "Minor Secret" token should there be according to the rulebook? I seem to be missing one. 
+
+The Clank! rulebook does not specify the exact count of each type of "Minor Secret" token, only that there are 18 tokens in total, divided among seven types: Potion of Healing, Potion of Swiftness, Potion of Strength, Skill Boost, Treasure, Magic Spring, and Dragon Egg. If you are missing a token, there is no exact distribution per type provided in the rulebook for comparison. 
+
+[black-cubes](https://boardgamegeek.com/thread/1657218/black-cubes) 
+
+> When do cubes go back into the Dragon Bag? 
+
+Clank cubes only go back into the Dragon Bag if a specific card effect instructs you to place them there. At the start of a dragon attack, all Clank cubes from the Clank Area are put into the bag, but after drawing, any player-colored cubes drawn as damage remain out of the bag unless a card effect later returns them.
+
+[room-adjacency](https://boardgamegeek.com/thread/1691242/room-adjacency)  
+
+[optional-effects](https://boardgamegeek.com/thread/1828742/optional-effects) 
+
+> Are all card effects in Clank! mandatory, or are some optional, such as drawing, trashing, or discarding? 
+
+All card effects in Clank! are mandatory unless specified otherwise. This includes drawing, trashing, and discarding effects, which must be resolved when the card is played. 
+
+> Is teleporting mandatory, and if so, can you teleport back to the same room? 
+
+Yes, teleporting is mandatory when a card instructs you to do so. However, you must teleport to an adjacent room; teleporting back to the same room is not allowed unless you reenter by other means.
 
 [companion-clarification](https://boardgamegeek.com/thread/2651372/companion-clarification)
 
