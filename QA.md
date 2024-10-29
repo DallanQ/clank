@@ -433,9 +433,21 @@ No, tokens must be revealed immediately when taken, as stated in the rulebook. H
 
 You must add 3 Clank to the Clank area whenever you play this card. All effects listed on a card are mandatory when the card is played, not simply when it is drawn.
 
-[trash-cards-and-discard-pile](https://boardgamegeek.com/thread/2727021/trash-cards-and-discard-pile)
+[trash-cards-and-discard-pile](https://boardgamegeek.com/thread/2727021/trash-cards-and-discard-pile) 
 
-[2-rebel-scouts-and-can-you-buy-multiple-market-ite](https://boardgamegeek.com/thread/1816724/2-rebel-scouts-and-can-you-buy-multiple-market-ite)
+When a card instructs you to trash a card, can you choose a card from previous rounds in the discard pile, or only one played this turn in the play area? 
+
+> You can choose to trash a card from either your discard pile from previous rounds or your play area from the current turn. Trashing removes the card from the game entirely by returning it to the box.
+
+[2-rebel-scouts-and-can-you-buy-multiple-market-ite](https://boardgamegeek.com/thread/1816724/2-rebel-scouts-and-can-you-buy-multiple-market-ite) 
+
+> If I play two Rebel Scout companions, each stating, "if another companion is in the play area, draw a card," do they both activate each other, allowing me to draw two cards? 
+
+Yes, if both Rebel Scouts are in the play area, each one satisfies the other's condition, allowing you to draw a card for each. So, playing two Rebel Scouts would let you draw two cards.
+
+> Can you buy multiple items at a market space if you have enough gold, or must you buy and exit the space to purchase another item? 
+
+Yes, you can buy multiple items in a single turn while on a market space, as long as you have enough gold. There is no requirement to leave the space between purchases, so you may buy two or more items at once if you can afford them. 
 
 [clank-app-companion](https://boardgamegeek.com/thread/3024703/clank-app-companion)
 
@@ -443,47 +455,135 @@ You must add 3 Clank to the Clank area whenever you play this card. All effects 
 
 [ladder-card](https://boardgamegeek.com/thread/1683593/ladder-card)
 
-[tiebreakers](https://boardgamegeek.com/thread/1759039/tiebreakers)
+> How does a Device card with two Boots work, and why doesn’t it just show Boots in the top left like other movement cards? 
 
-[do-you-use-the-effects-of-a-bought-card-instantly](https://boardgamegeek.com/thread/2901821/do-you-use-the-effects-of-a-bought-card-instantly)
+Device cards, marked with a purple banner, are used immediately when acquired. For a Device with two Boots, you can move two spaces immediately upon acquiring it, after which the card is discarded and does not remain in your deck. This rule is found in the manual under "Use a Device" in Step 2: The Plan.
+
+[tiebreakers](https://boardgamegeek.com/thread/1759039/tiebreakers) 
+
+> How do tiebreakers work if multiple players are knocked out, specifically if both are in the depths and eliminated by the same dragon attack? What if one or more are above the depths?
+
+If all players are knocked out in the depths, they cannot be rescued, and everyone loses. However, if players are knocked out above the depths and have artifacts, they are rescued, and their points count. In the case of a tie in points, the player with the most valuable artifact wins, as specified in the rulebook.
+
+[do-you-use-the-effects-of-a-bought-card-instantly](https://boardgamegeek.com/thread/2901821/do-you-use-the-effects-of-a-bought-card-instantly) 
+
+> Do you get the benefits of a card immediately upon purchasing it, or does it go to the discard pile to be used in a future turn? 
+
+Generally, purchased cards go to your discard pile, so you don’t gain their benefits immediately. However, Monster cards and Device cards (purple banner) grant their effects right away and are then removed. Cards with an "Acquire" effect also apply that effect immediately upon purchase, though the card itself still goes to the discard pile.
 
 [overlord-question](https://boardgamegeek.com/thread/1740932/overlord-question)
 
+> If I draw two cards and one is a monster, do I shuffle it back, place it down, or handle it some other way? 
+
+You only draw cards from your own deck, which does not include monsters. Monsters appear in the Dungeon Row and provide a one-time benefit when defeated. If you accidentally draw a monster from the Dungeon Row, it should not be added to your hand or deck.
+
 [newbe-questions](https://boardgamegeek.com/thread/2278353/newbe-questions)
 
-[holding-cards](https://boardgamegeek.com/thread/1997717/holding-cards)
+> If I have 3 swords and I need 2 to fight an enemy and 1 for the goblin, can I fight both enemies?
 
-[dragon-attack-twice](https://boardgamegeek.com/thread/1838990/dragon-attack-twice)
+Yes, symbols like swords go into a "pool" for your turn, allowing you to distribute them as needed. You can use 2 swords for one enemy and 1 for the goblin in the same turn.
 
-[2-backpacks](https://boardgamegeek.com/thread/3344014/2-backpacks)
+> Can I use both the card text and the symbols in the upper left corner of a card during my turn?
 
-[question-about-major-secret-tokens-in-the-solo-gam](https://boardgamegeek.com/thread/1744411/question-about-major-secret-tokens-in-the-solo-gam)
+Yes, when you play a card, you gain both its text effect and symbols, which go into your resource pool for the turn. You may choose the order of play for your cards, but all effects are applied once the card is played. 
+
+> Can I skip a positive effect on a card, such as a card’s text or skill?
+
+No, card effects are mandatory unless they explicitly say "may." You must apply all benefits or effects when you play the card, even if they don’t currently benefit you (like healing at full health). 
+
+> Can I combine all my symbols (swords, skill, boots) freely at any point in my turn? 
+
+Yes, you can use symbols from your pool in any order throughout your turn, allowing you to perform actions such as moving, fighting, and purchasing as you like within the turn.
+
+[holding-cards](https://boardgamegeek.com/thread/1997717/holding-cards) 
+
+- Are players supposed to hold their next five cards in their hand, or should they draw them at the start of their turn? 
+
+Players draw their next five cards at the end of their turn, so they are ready to start planning for the following turn. This allows turns to progress smoothly without waiting for players to draw at the start of each turn.
+
+[dragon-attack-twice](https://boardgamegeek.com/thread/1838990/dragon-attack-twice) 
+
+> If a dragon symbol is revealed in the Dungeon Row while the Countdown Track also triggers a dragon attack, would the dragon attack twice or just once? 
+
+The dragon would attack twice in this scenario. Each attack trigger (a dragon symbol in the Dungeon Row and advancing on the Countdown Track) results in a separate dragon attack. 
+
+[2-backpacks](https://boardgamegeek.com/thread/3344014/2-backpacks) 
+
+> Can a player have more than one backpack to carry three artifacts? 
+
+Yes, owning multiple backpacks would allow a player to carry additional artifacts. Each backpack permits carrying one extra artifact, so with two backpacks, you could carry up to three artifacts if you have enough time and gold to acquire them.
+
+[question-about-major-secret-tokens-in-the-solo-gam](https://boardgamegeek.com/thread/1744411/question-about-major-secret-tokens-in-the-solo-gam) 
 
 [must-play-each-card-eventually](https://boardgamegeek.com/thread/2655972/must-play-each-card-eventually)
 
+> Are you required to play every card in your hand each turn, including Stumble cards?
+
+Yes, all cards in your hand must be played each turn, including Stumble cards, unless a card effect allows you to discard them. While you can choose the order of play, each card’s effect is mandatory, making Stumble cards unavoidable unless specifically discarded.
+
 [can-pickpocket-ignore-rules-to-acquire-a-card](https://boardgamegeek.com/thread/2937589/can-pickpocket-ignore-rules-to-acquire-a-card)
 
-[question-about-dead-run-card](https://boardgamegeek.com/thread/1696532/question-about-dead-run-card)
+> If I use Pickpocket with Fishing Pole to acquire Grand Plan, which costs 5 skill but says "gain 2 gold" when acquired, do I still need to pay 2 gold? 
 
-[renegade-and-other-conditional-cards](https://boardgamegeek.com/thread/1798801/renegade-and-other-conditional-cards)
+No, you don’t need to pay 2 gold. The "acquire" effect is a bonus, so you gain 2 gold upon acquiring Grand Plan. Acquire effects provide benefits when you obtain the card and are not additional costs.
 
-[can-i-have-more-than-5-cards-in-my-play-area](https://boardgamegeek.com/thread/2041154/can-i-have-more-than-5-cards-in-my-play-area)
+[question-about-dead-run-card](https://boardgamegeek.com/thread/1696532/question-about-dead-run-card) 
+
+> If I don’t use the boots on a card, do I still get the +2 Clank penalty? 
+
+Yes, you still receive the +2 Clank penalty. All effects on a card must be applied when it’s played, even if you don’t use every symbol, such as boots. The Clank is added as part of the card’s effect.
+
+[renegade-and-other-conditional-cards](https://boardgamegeek.com/thread/1798801/renegade-and-other-conditional-cards) 
+
+> If I play two Renegade companions, each with “draw a card if you have another companion in the play area,” do both cards let me draw, or only if a companion was already present when each was played? 
+
+Both Renegade companions will allow you to draw a card as long as both are in your play area by the end of the turn. The effect applies based on the "pool" concept, meaning you meet the draw condition for each card as long as there’s another companion in play by the end of the round.
+
+[can-i-have-more-than-5-cards-in-my-play-area](https://boardgamegeek.com/thread/2041154/can-i-have-more-than-5-cards-in-my-play-area) 
+
+> Can I have more than five cards in my play area if a card effect lets me draw extra? And when a card says to "draw a card," is that from my deck or the Dungeon Deck? 
+
+Yes, you can have more than five cards in your play area if you draw extra cards on your turn. When a card says to "draw a card," it means from your personal deck, not the Dungeon Deck. The Dungeon Deck is only used to refill the Dungeon Row.
 
 [gold-question](https://boardgamegeek.com/thread/1729908/gold-question)
 
-[gold-and-silk-secrets-clarification](https://boardgamegeek.com/thread/2110675/gold-and-silk-secrets-clarification)
+> Is the gold supposed to be a finite resource? I played my first game, and towards the end, we ran out of gold pieces to use. We weren't sure whether we needed to proxy gold or if there was a max. 
 
-[discarding-unwanted-cards](https://boardgamegeek.com/thread/1674999/discarding-unwanted-cards)
+Gold is intended to be a plentiful resource, and there is no maximum limit stated in the rules. The game is designed to have more gold in the box than players can realistically obtain. If you run out of gold pieces during the game, it's advisable to proxy additional gold, as dragons should have more gold in their hoards than can fit in a board game box.
 
-[mister-whiskers-in-hand-right-before-exiting-dunge](https://boardgamegeek.com/thread/1806388/mister-whiskers-in-hand-right-before-exiting-dunge)
+[gold-and-silk-secrets-clarification](https://boardgamegeek.com/thread/2110675/gold-and-silk-secrets-clarification) 
 
-[starting-turn-in-a-market](https://boardgamegeek.com/thread/1750792/starting-turn-in-a-market)
+> If a player has the Wand of Wind, do they need to also have a sword to take a secret that's in a web from an adjacent room? The card simply says to take the secret, and the instructions for Gold and Silk state that you must decide upon entering the room to use the sword to take the secret or not. 
+
+No, if a player has the Wand of Wind, they do not need a sword to take the secret. The magic of the wand allows the player to take the secret without requiring the use of a sword.
+
+[discarding-unwanted-cards](https://boardgamegeek.com/thread/1674999/discarding-unwanted-cards) 
+
+[mister-whiskers-in-hand-right-before-exiting-dunge](https://boardgamegeek.com/thread/1806388/mister-whiskers-in-hand-right-before-exiting-dunge) 
+
+>  If I have Mister Whiskers and play him (to trigger a dragon attack) as I'm leaving the dungeon, am I still vulnerable to damage, or do I still receive the +20 point token for exiting, regardless of the dragon attack? 
+
+You can play Mister Whiskers without concern, as you have already exited the dungeon before the dragon attack occurs. You will receive the +20 Mastery Token for exiting, as stated in the rules: "Once you’ve picked up an Artifact, you can also make your way back to the place you started, outside of the dungeon. If you make it all the way back before being knocked out, you will receive a Mastery token worth an additional 20 points!"
+
+[starting-turn-in-a-market](https://boardgamegeek.com/thread/1750792/starting-turn-in-a-market) 
+
+> If you start at a market, can you buy things from it before you start moving? The rules do not explicitly prohibit this, but most everything else triggers only when you enter. 
+
+Yes, you can make market purchases at any point while you are in a Market space, whether you just entered or have been there for a while.
 
 [health-track-question](https://boardgamegeek.com/thread/1845637/health-track-question)
 
+> If you just bought a physical copy of Clank, do players start with one cube on the health track?
+
+You do NOT start with any cubes on your health track. Cubes are only placed there when taking wounds from monster tunnels or when pulled from the Dragon Bag.
+
 [is-gold-limited-to-the-supply](https://boardgamegeek.com/thread/2524912/is-gold-limited-to-the-supply)
 
-[can-i-use-the-card-i-bought-in-my-turn](https://boardgamegeek.com/thread/2480048/can-i-use-the-card-i-bought-in-my-turn)
+[can-i-use-the-card-i-bought-in-my-turn](https://boardgamegeek.com/thread/2480048/can-i-use-the-card-i-bought-in-my-turn) 
+
+> If I buy a card from the dungeon row, can I use it in the same turn, or does it go immediately into my discard pile? For example, if I buy 2 swords, can I fight the goblin in the same turn? 
+
+Cards bought from the dungeon row go immediately into the discard pile and cannot be used in the same turn. 
 
 [multiple-icon-on-cards](https://boardgamegeek.com/thread/1792836/multiple-icon-on-cards)
 
