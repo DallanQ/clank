@@ -375,11 +375,31 @@ No, movement in Clank! requires you to spend Boots in the same turn to complete 
 
 Yes, if you have enough Boot symbols, you can move into a market space, make a purchase, and continue moving. Movement and purchases are separate actions, so as long as you have sufficient Boots, you can keep moving after buying.
 
-[dungeon-row-sequential-or-all-at-once](https://boardgamegeek.com/thread/2547875/dungeon-row-sequential-or-all-at-once)
+[dungeon-row-sequential-or-all-at-once](https://boardgamegeek.com/thread/2547875/dungeon-row-sequential-or-all-at-once) 
 
-[rules-questions](https://boardgamegeek.com/thread/1732710/rules-questions)
+> When replacing empty Dungeon Row spaces at the end of a turn, are replacement cards considered to be placed all at once or sequentially? For example, if the first replacement triggers a dragon attack and the second says “return three black cubes to the bag,” which happens first? 
 
-[boomrang](https://boardgamegeek.com/thread/1752466/boomrang)
+Replacement cards are resolved in the order they are revealed. Each card’s Arrive effect, if any, is carried out as soon as it appears in the Dungeon Row, before any dragon attack triggered by a new card. So, if the first card triggers a dragon attack and the second card has an Arrive effect to return black cubes, you would return the cubes to the bag before conducting the dragon attack.
+
+[rules-questions](https://boardgamegeek.com/thread/1732710/rules-questions)  
+
+> Do discarded cards count toward the skill, movement, or swords I generate on my turn? 
+
+No, discarded cards do not contribute to your skill, movement, or sword count. According to the rules, only cards you play directly provide these resources. Discards do not offer their effects when discarded. 
+
+> Can I use a card’s discard power to discard itself? 
+
+No, a card with a discard effect cannot be used to discard itself. Discard effects apply only to other cards in your hand that have not yet been played.
+
+> Can I execute the action on a card and then discard the card to a discard effect?
+
+No, if you use a card’s actions, you cannot then discard it for a discard effect. Discard effects can only be applied to cards that haven’t been played.
+
+> What happens if the dragon bag runs out of Clank cubes when cubes would be drawn? 
+
+If the dragon bag runs out of cubes, no more cubes are drawn for that attack. The attack has no effect if there are no cubes left in the bag. 
+
+[boomrang](https://boardgamegeek.com/thread/1752466/boomrang) 
 
 [dump-an-artifact](https://boardgamegeek.com/thread/2059432/dump-an-artifact)
 
@@ -387,11 +407,31 @@ Yes, if you have enough Boot symbols, you can move into a market space, make a p
 
 [question-about-drawing-cards](https://boardgamegeek.com/thread/1792224/question-about-drawing-cards)
 
-[rule-clarifications](https://boardgamegeek.com/thread/1739086/rule-clarifications)
+[rule-clarifications](https://boardgamegeek.com/thread/1739086/rule-clarifications) 
 
-[major-and-minor-secret-tokens](https://boardgamegeek.com/thread/1771847/major-and-minor-secret-tokens)
+>  If I play a -2 Clank card after a Stumble card that adds Clank, and then draw another Stumble, will the -2 Clank remove the new Clank as well?
 
-[monkeybot-3000](https://boardgamegeek.com/thread/1808608/monkeybot-3000)
+Yes, the -2 Clank effect "floats" for the rest of your turn and will cancel out future Clank added during that turn. So, if you draw a new Stumble after playing the -2 Clank card, the -2 effect can still remove the new Clank.
+
+> If a player with an artifact is knocked out on the surface, is the only downside that they miss the mastery token?
+
+Yes, the player does not receive the 20-point mastery token. Additionally, they may have fewer turns as other players continue their turns.
+
+> Besides starting Clank and cards that specifically add Clank, are there other ways to add Clank?
+
+In the base game, Clank can only be added through starting Clank and cards that explicitly add or remove Clank. No other methods for adding Clank are provided without expansions or apps.
+
+[major-and-minor-secret-tokens](https://boardgamegeek.com/thread/1771847/major-and-minor-secret-tokens) 
+
+> Can we keep the Major and Minor Secret tokens (other than those that say "play immediately") face down until later use? The rulebook doesn’t seem to specify.
+
+No, tokens must be revealed immediately when taken, as stated in the rulebook. However, after revealing them, there’s no restriction on placing non-immediate-use tokens face down until they’re used. 
+
+[monkeybot-3000](https://boardgamegeek.com/thread/1808608/monkeybot-3000) 
+
+> If a card states "+3 Clank! Draw 3 cards," does this mean I can choose to add 3 Clank to draw 3 cards, or must I add 3 Clank each time the card is drawn? 
+
+You must add 3 Clank to the Clank area whenever you play this card. All effects listed on a card are mandatory when the card is played, not simply when it is drawn.
 
 [trash-cards-and-discard-pile](https://boardgamegeek.com/thread/2727021/trash-cards-and-discard-pile)
 
