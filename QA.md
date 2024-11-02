@@ -72,10 +72,6 @@ To score points, a player must possess at least one artifact and be above ground
 
 [can-i-pick-up-a-tresure-by-taking-a-turn-later-aft](https://boardgamegeek.com/thread/3223110/can-i-pick-up-a-tresure-by-taking-a-turn-later-aft)
 
-> If I end my turn on a square with a treasure but choose not to pick it up, can I decide to collect it at the start of my next turn before moving?
-
-You would need to re-enter the square to pick up the treasure. However, it’s worth noting that the rules were updated, and you can now choose to pick up an artifact later, rather than only when you first enter the room.
-
 [errata-needed-for-climbing-gear-card](https://boardgamegeek.com/thread/1770945/errata-needed-for-climbing-gear-card)
 
 > Regarding the Climbing Gear card, which states, "You may discard a card to gain a +Boot," does this mean I can discard multiple cards for multiple movement points, or is it limited to one card for one movement point?
@@ -546,10 +542,6 @@ Yes, you can have more than five cards in your play area if you draw extra cards
 Gold is intended to be a plentiful resource, and there is no maximum limit stated in the rules. The game is designed to have more gold in the box than players can realistically obtain. If you run out of gold pieces during the game, it's advisable to proxy additional gold, as dragons should have more gold in their hoards than can fit in a board game box.
 
 [gold-and-silk-secrets-clarification](https://boardgamegeek.com/thread/2110675/gold-and-silk-secrets-clarification) 
-
-> If a player has the Wand of Wind, do they still need a sword to take a secret in a web from an adjacent room, considering the rules state you must decide upon entering whether to use the sword?
-
-No, if a player has the Wand of Wind, they do not need a sword to take the secret. The magic of the wand allows the player to take the secret without requiring the use of a sword.
 
 [discarding-unwanted-cards](https://boardgamegeek.com/thread/1674999/discarding-unwanted-cards) 
 
