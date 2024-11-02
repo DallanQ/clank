@@ -9,17 +9,14 @@ You can only exit the dungeon from the first room by the entrance. You are not a
 
 > The card Dragon's Eye says its worth 10 if you have a mastery token, what's a mastery token?
 
-The 20 point token for returning to town.
+A mastery token is a 20-point bonus given to players who escape the dungeon with an artifact. If you hold a mastery token when the game ends, the Dragon's Eye card grants you an additional 10 points, adding to your final score.
 
 [countdown-track-drawing-extra-cubes](https://boardgamegeek.com/thread/1712890/countdown-track-drawing-extra-cubes)
 
-> When a dragon attack is triggered by revealing a card and a meeple is currently on space 2, 3, or 4 of the countdown track (though it's not that player's turn), are extra cubes drawn from the bag, treating them like the extra cube on "Danger" cards? Right now, we are only drawing the extra cubes during the player's turn who is on the Countdown Track.
+> If a dragon attack is triggered by revealing a card and a meeple is on space 2, 3, or 4 of the countdown track (even if it’s not that player’s turn), are extra cubes drawn from the bag, like with “Danger” cards?
 
-You're playing correctly. Those icons do not affect normal dragon attacks triggered by dungeon cards.
+No, you don’t draw extra cubes when a dragon attack is triggered by a dungeon card, even if a meeple is on space 2, 3, or 4 of the countdown track. Those icons only apply during dragon attacks on that player’s turn.
 
-> When the dragon attack is initiated on the countdown track do you add any clank cubes on the board to the bag prior to drawing?
-
-Yes, the pending clank cubes are always put in the bag before resolving a dragon attack.
 
 [making-sure-dragon-attack-early-in-game](https://boardgamegeek.com/thread/1820960/making-sure-dragon-attack-early-in-game)
 
@@ -63,19 +60,19 @@ You can use all the resources listed on the top left portion of the card. No nee
 
 [master-burglar](https://boardgamegeek.com/thread/1695944/master-burglar)
 
-> When a Burglar is played, then trashed due to Master Burglar, does the skill point on the Burglar still count for the turn? We played as yes, since the rulebook states that resources count as soon as you play the card, but just want to clarify.
+> When a Burglar is played, then trashed due to Master Burglar, does the skill point on the Burglar still count for the turn? 
 
 Yes, you still receive the skill point from the Burglar card, even if it is later trashed by Master Burglar. The resources are available as soon as you play the card, per the rulebook.
 
 [endgame-question](https://boardgamegeek.com/thread/3343975/endgame-question)
 
-> If a player has no artifact but is on the upper side of the dungeon, does this player score any points? The rule section about players being out of the competition mentions being knocked out after losing all 10 points of life. But if the player isn’t knocked out and it's endgame, does the same 'no score' condition apply?
+> If a player is on the top side of the dungeon without an artifact, do they score any points?
 
 To score points, a player must possess at least one artifact and be above ground. Without an artifact, a player cannot fully escape the dungeon, even if they're above the depths. Rules clarify that players knocked out above ground can be rescued only if they hold an artifact; otherwise, they don’t score.
 
 [can-i-pick-up-a-tresure-by-taking-a-turn-later-aft](https://boardgamegeek.com/thread/3223110/can-i-pick-up-a-tresure-by-taking-a-turn-later-aft)
 
-> After finishing a turn on a square containing a treasure, I decide not to pick it up. However, at the next turn's start, I regret my decision and want to collect it. Do I need to leave that square and re-enter to pick it up, or can I start the turn by taking it and then move to another square?
+> If I end my turn on a square with a treasure but choose not to pick it up, can I decide to collect it at the start of my next turn before moving?
 
 You would need to re-enter the square to pick up the treasure. However, it’s worth noting that the rules were updated, and you can now choose to pick up an artifact later, rather than only when you first enter the room.
 
@@ -149,7 +146,7 @@ You can buy as many items as you can afford when you're on the market space. Eac
 
 [purchasing-a-device-card-in-clank](https://boardgamegeek.com/thread/1738654/purchasing-a-device-card-in-clank)
 
-> The rules mention that when you purchase a device card (purple banner), it does not become part of your deck and that you perform the USE text. The rules don't say that you have to perform the USE immediately. Can you save one or more device cards and use them when needed in the future, or do you have to perform the USE immediately after purchase? 
+> When you buy a device card (purple banner), must you perform the USE effect immediately, or can you save it to use later? 
 
 You must perform the USE text immediately after purchasing a device card. The rules specify that the card is removed from the game after use, similar to defeating a monster. There is no provision in the rules for setting it aside for later use.
 
@@ -161,13 +158,10 @@ Yes, you are allowed to double back when moving in one turn. The rules do not pr
 
 [question-about-picking-card-with-companion](https://boardgamegeek.com/thread/1728233/question-about-picking-card-with-companion)
 
-> When using the rule that allows you to draw a card by having a companion in play, is it one card drawn only if you have one companion in play, or is it one card drawn for each companion? The card text states: "If you have another companion in your play area, draw a card."
+> When using the rule that allows you to draw a card by having a companion in play, is it just one card drawn only if you have one companion in play, or do you draw one card for each companion?
 
 It is one card drawn, regardless of how many companions you have in play. You only draw one card when the condition is met.
 
-> If you have three companions in your hand, does the drawing effect of the first companion trigger, allowing you to draw three cards? Or do you not count the first effect since you had no companions on the table before?
-
-You only draw one card, no matter how many companions you have. The card effect states, "If you have another companion in your play area, draw a card," and this applies regardless of the order in which you play your cards.
 
 [2-questions-on-tokens](https://boardgamegeek.com/thread/1739461/2-questions-on-tokens)
 
@@ -497,7 +491,7 @@ Yes, you can use symbols from your pool in any order throughout your turn, allow
 
 [holding-cards](https://boardgamegeek.com/thread/1997717/holding-cards) 
 
-- Are players supposed to hold their next five cards in their hand, or should they draw them at the start of their turn? 
+> Are players supposed to hold their next five cards in their hand, or should they draw them at the start of their turn? 
 
 Players draw their next five cards at the end of their turn, so they are ready to start planning for the following turn. This allows turns to progress smoothly without waiting for players to draw at the start of each turn.
 
@@ -547,13 +541,13 @@ Yes, you can have more than five cards in your play area if you draw extra cards
 
 [gold-question](https://boardgamegeek.com/thread/1729908/gold-question)
 
-> Is the gold supposed to be a finite resource? I played my first game, and towards the end, we ran out of gold pieces to use. We weren't sure whether we needed to proxy gold or if there was a max. 
+> Is gold a finite resource in the game, and is there a maximum limit?
 
 Gold is intended to be a plentiful resource, and there is no maximum limit stated in the rules. The game is designed to have more gold in the box than players can realistically obtain. If you run out of gold pieces during the game, it's advisable to proxy additional gold, as dragons should have more gold in their hoards than can fit in a board game box.
 
 [gold-and-silk-secrets-clarification](https://boardgamegeek.com/thread/2110675/gold-and-silk-secrets-clarification) 
 
-> If a player has the Wand of Wind, do they need to also have a sword to take a secret that's in a web from an adjacent room? The card simply says to take the secret, and the instructions for Gold and Silk state that you must decide upon entering the room to use the sword to take the secret or not. 
+> If a player has the Wand of Wind, do they still need a sword to take a secret in a web from an adjacent room, considering the rules state you must decide upon entering whether to use the sword?
 
 No, if a player has the Wand of Wind, they do not need a sword to take the secret. The magic of the wand allows the player to take the secret without requiring the use of a sword.
 
