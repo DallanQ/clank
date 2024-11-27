@@ -1,9 +1,4 @@
-[do-you-get-mastery-bonus-if-you-teleport-out](https://boardgamegeek.com/thread/2032532/do-you-get-mastery-bonus-if-you-teleport-out)
-
-> Can you get the 20 point mastery bonus if you teleport from the bottom of the dungeon to the inn? Or do you have to walk out the old-fashioned way to get the badge?
-
-Teleportation is a special form of movement that allows you to move to any room connected to your current room. 
-You can only exit the dungeon from the first room by the entrance. You are not allowed to teleport from the bottom of the dungeon.
+![image](https://github.com/user-attachments/assets/ef9700db-0bf7-4160-a7ff-c2297fe8ac0d)[do-you-get-mastery-bonus-if-you-teleport-out](https://boardgamegeek.com/thread/2032532/do-you-get-mastery-bonus-if-you-teleport-out)
 
 [dragons-eye-mastery-token](https://boardgamegeek.com/thread/1667876/dragons-eye-mastery-token)
 
@@ -11,12 +6,12 @@ You can only exit the dungeon from the first room by the entrance. You are not a
 
 A mastery token is a 20-point bonus given to players who escape the dungeon with an artifact. If you hold a mastery token when the game ends, the Dragon's Eye card grants you an additional 10 points, adding to your final score.
 
+----
+page 4
+
+If you make it all the way back before being knocked out, you will receive a Mastery token worth an additional 20 points!
+
 [countdown-track-drawing-extra-cubes](https://boardgamegeek.com/thread/1712890/countdown-track-drawing-extra-cubes)
-
-> If a dragon attack is triggered by revealing a card and a meeple is on space 2, 3, or 4 of the countdown track (even if it’s not that player’s turn), are extra cubes drawn from the bag, like with “Danger” cards?
-
-No, you don’t draw extra cubes when a dragon attack is triggered by a dungeon card, even if a meeple is on space 2, 3, or 4 of the countdown track. Those icons only apply during dragon attacks on that player’s turn.
-
 
 [making-sure-dragon-attack-early-in-game](https://boardgamegeek.com/thread/1820960/making-sure-dragon-attack-early-in-game)
 
@@ -26,35 +21,58 @@ No, you don’t draw extra cubes when a dragon attack is triggered by a dungeon 
 
 The play area is wherever you place cards from your hand into play (usually right in front of you). Cards in play are contributing to your pool of resources (skill, boots, swords), while of course cards in your hand and discard are not. 
 
+----
+page 10
+
+When you play cards during your turn, they go to a play area in front of you. This helps keep track of the cards you've used this turn. 
+
+----
+page 7
+
+Once you've played all of your cards and used as much of your resources as you want to, your turn ends. Put all of the cards you played into your discard pile and draw five new cards in preparation for your next turn.
+
 [market-refresh](https://boardgamegeek.com/thread/3342721/market-refresh)
 
 > After you buy a card is the market immediately refreshed? 
 
-No, the Dungeon Row is only refreshed at the end of a player’s turn, not immediately after buying a card.
+No, the Dungeon Row is only refreshed at the end of a player’s turn, not immediately after buying a card. 
 
-> when going into a room with multiple minor secrets are you able to look and choose which one you want? Or do you take one at random?
+----
+page 8
 
-For the minor secrets, you don’t get to look and choose which one you want if there are multiple; you simply draw one at random.
+At the end of every turn, if any of the six spaces for cards in the Dungeon Row are empty, refill them with new cards from the Dungeon Deck. If any of the cards drawn have a Dragon Attack symbol, the dragon attacks! (But only once, no matter how many Dragon Attack symbols were revealed.) 
+
+
+> when going into a room with multiple minor secrets are you able to look and choose which one you want? Or do you take one at random? 
+
+For the minor secrets, you don’t get to look and choose which one you want if there are multiple; you simply draw one at random. 
+
+----
+page 6
+
+When you move into a room, you can take one of the tokens there (Minor Secret, Major Secret, Monkey Idol, or Artifact) and put it in front of you. 
+
+----
+page 6
+
+You can only take one token when you move into a room. (If the room has more than one token in it, you must exit and re-enter to pick up another.)
 
 [disadvantage-first-player-escaping-the-dungeon](https://boardgamegeek.com/thread/1908669/disadvantage-first-player-escaping-the-dungeon)
 
 [rules-question](https://boardgamegeek.com/thread/1936098/rules-question)
 
-> If I move in a tunnel with monster icon and have no sword I take 1 damage. But what about if at the end of the movement I found a potion with a sword: can I use this sword to prevent the previous damage suffered?
-
-No, you encountered the monster first, failed to kill it, suffered the 1 damage then moved on to discover the item.
-
 [does-monkey-bot-trigger-an-attack-when-it-was-play](https://boardgamegeek.com/thread/2486662/does-monkey-bot-trigger-an-attack-when-it-was-play)
-
-> Does monkey bot trigger an attack when it was played from my hand in my turn?
-
-Attacks only happen when revealed in the dungeon row (or unless stated explicitly like for Mister Whiskers).
 
 [resources-on-cards](https://boardgamegeek.com/thread/1758632/resources-on-cards)
 
 > Can I use all the resources on a card or choose only 1? E.g. if a card has both boots and swords can use that card on my turn both for moving and fighting?
 
-You can use all the resources listed on the top left portion of the card. No need to pick and choose. You can use all of them!
+You can use all the resources listed on the top left portion of the card. No need to pick and choose. You can use all of them! 
+
+----
+page 6
+
+During your turn, you can use the resources you've generated—Skill, Swords, and Boots—to take any of the following actions. You may take each action as many times as you like, as long as you have the resources to do so. You can wait and take your actions after you've played all of your cards, or you can take actions between cards if you wish.
 
 [pickaxe-and-rebel-minor-question](https://boardgamegeek.com/thread/1658978/pickaxe-and-rebel-minor-question)
 
@@ -62,13 +80,41 @@ You can use all the resources listed on the top left portion of the card. No nee
 
 > When a Burglar is played, then trashed due to Master Burglar, does the skill point on the Burglar still count for the turn? 
 
-Yes, you still receive the skill point from the Burglar card, even if it is later trashed by Master Burglar. The resources are available as soon as you play the card, per the rulebook.
+Yes, you still receive the skill point from the Burglar card, even if it is later trashed by Master Burglar. The resources are available as soon as you play the card, per the rulebook. 
+
+----
+page 7
+
+Once you've played all of your cards and used as much of your resources as you want to, your turn ends. 
+
+----
+page 10
+
+Some cards and effects can cause you to trash a card. This removes the chosen card from your deck entirely. 
 
 [endgame-question](https://boardgamegeek.com/thread/3343975/endgame-question)
 
 > If a player is on the top side of the dungeon without an artifact, do they score any points?
 
-To score points, a player must possess at least one artifact and be above ground. Without an artifact, a player cannot fully escape the dungeon, even if they're above the depths. Rules clarify that players knocked out above ground can be rescued only if they hold an artifact; otherwise, they don’t score.
+To score points, a player must possess at least one artifact and be above ground. Without an artifact, a player cannot fully escape the dungeon, even if they're above the depths. Rules clarify that players knocked out above ground can be rescued only if they hold an artifact; otherwise, they don’t score. 
+
+----
+page 8
+
+If you haven't gotten an Artifact yet, or if you are still stuck in the Depths, then you can't be rescued. You lose the competition, which at this point is the least of your worries. 
+
+----
+page 9
+
+All players who escaped the dungeon (or at least the Depths) add up their score, counting the following:
+
+(Icon of no.7 with a blue background) The Value Of Their Artifact.
+
+(Icon of a Monkey Idol) Points from any other tokens they acquired.
+
+(Icon of no.2 in cream background) Points equal to the amount of Gold they accumulated.
+
+(Icon of no.3 in a green background) Points awarded by cards in their deck. (The top right corner of each card shows the amount it's worth.)
 
 [can-i-pick-up-a-tresure-by-taking-a-turn-later-aft](https://boardgamegeek.com/thread/3223110/can-i-pick-up-a-tresure-by-taking-a-turn-later-aft)
 
@@ -76,19 +122,21 @@ To score points, a player must possess at least one artifact and be above ground
 
 > Regarding the Climbing Gear card, which states, "You may discard a card to gain a +Boot," does this mean I can discard multiple cards for multiple movement points, or is it limited to one card for one movement point?
 
-"A card" is just one card in all cases like this. The Climbing Gear card allows you to discard one card to gain a + Boot. Each card's text is used only once per turn unless another card allows reuse of a card.
+"A card" is just one card in all cases like this. The Climbing Gear card allows you to discard one card to gain a + Boot. Each card's text is used only once per turn unless another card allows reuse of a card. 
+
+----
+page 10
+
+Some cards ask you to discard a card. You can only discard cards in your hand that you haven't played yet. The card does not have its normal effect, which means discarding can be a useful way to get around cards that generate Clank! If you're asked to discard a card to get something, you must actually discard a card to get it.
+
+---- 
+page 6 
+
+During your turn, you can use the resources you've generated—Skill, Swords, and Boots—to take any of the following actions. You may take each action as many times as you like, as long as you have the resources to do so.
 
 [dwarven-peddler-clarification](https://boardgamegeek.com/thread/1759767/dwarven-peddler-clarification)
 
-> The card reads, "Worth 4 victory points if you have two of the following: chalice, dragon egg, and monkey idol." Are you required to have two distinct items? For example, can you claim the points if you have two dragon eggs but no monkey idol or chalice?
-
-You do not qualify for the points with two of the same item. You need two distinct items from the list to earn the 4 victory points.
-
 [game-over-companion-app](https://boardgamegeek.com/thread/1903223/game-over-companion-app)
-
-> When playing solo with the Companion App, should I press the Game Over button as soon as I exit the dungeon, or after progressing along the Countdown Track to the fifth space?
-
-In solo play, the game ends as soon as you leave the dungeon, so you should press the Game Over button at that point. The Countdown Track is not used since there are no other players remaining in the dungeon.
 
 [best-variant-for-two-players](https://boardgamegeek.com/thread/2899553/best-variant-for-two-players)
 
@@ -96,13 +144,28 @@ In solo play, the game ends as soon as you leave the dungeon, so you should pres
 
 > If you purchase a dragon card from the river and then play it, does that initiate another dragon attack?
 
-No, a dragon attack only occurs when a dragon card enters the river, not when it is purchased or played. 
+No, a dragon attack only occurs when a dragon card enters the river, not when it is purchased or played.  
+
+----
+page 8
+
+At the end of every turn, if any of the six spaces for cards in the Dungeon Row are empty, refill them with new cards from the Dungeon Deck. If any of the cards drawn have a Dragon Attack symbol, the dragon attacks! (But only once, no matter how many Dragon Attack symbols were revealed.) 
+
+----
+page 6
+
+Once you pay the cost, place the card in your discard pile; it is now part of your deck.
 
 [minor-secrets](https://boardgamegeek.com/thread/1902128/minor-secrets)
 
 > I own the German version of the game and have read about 2 minor secrets being placed in one room, but I don’t see this indicated on the board or in the rules. Should there be 2 minor secrets in each room at the start?
 
-Yes, 2 minor secrets should be placed in each room at the start. In the German version, an error in the rules incorrectly states only 1 secret per room. The publisher corrected this by including a sticker with the updated rule in all copies. 
+Yes, 2 minor secrets should be placed in each room at the start. In the German version, an error in the rules incorrectly states only 1 secret per room. The publisher corrected this by including a sticker with the updated rule in all copies.  
+
+----
+page 2
+
+Shuffle the Minor Secrets face down, then place one at random on each Minor Secret space. (Two in each room with Minor Secrets.)
 
 [being-knocked-out-during-turn](https://boardgamegeek.com/thread/2746701/being-knocked-out-during-turn)
 
