@@ -171,7 +171,22 @@ Shuffle the Minor Secrets face down, then place one at random on each Minor Secr
 
 > If I am knocked out during my turn (for example, by playing Mister Whiskers), does my turn end immediately?
 
-Yes, your turn ends immediately if you are knocked out. However, you can choose the order in which to play your cards, so any actions that could knock you out can be delayed until the end of your turn if preferred.
+Yes, your turn ends immediately if you are knocked out. However, you can choose the order in which to play your cards, so any actions that could knock you out can be delayed until the end of your turn if preferred. 
+
+----
+page 8
+
+If your Health Meter is ever completely filled, you are knocked out. What happens next depends on how successful you've been so far: 
+
+----
+page 9
+
+Whenever a player leaves the dungeon or is knocked out, they no longer take normal turns.
+
+----
+page 7
+
+Once you've played all of your cards and used as much of your resources as you want to, your turn ends.
 
 [search-and-secrets-that-count-as-gold](https://boardgamegeek.com/thread/1793926/search-and-secrets-that-count-as-gold)
 
