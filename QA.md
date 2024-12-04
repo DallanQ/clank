@@ -1,17 +1,45 @@
-![image](https://github.com/user-attachments/assets/ef9700db-0bf7-4160-a7ff-c2297fe8ac0d)[do-you-get-mastery-bonus-if-you-teleport-out](https://boardgamegeek.com/thread/2032532/do-you-get-mastery-bonus-if-you-teleport-out)
+![image](https://github.com/user-attachments/assets/ef9700db-0bf7-4160-a7ff-c2297fe8ac0d)
+
+[do-you-get-mastery-bonus-if-you-teleport-out](https://boardgamegeek.com/thread/2032532/do-you-get-mastery-bonus-if-you-teleport-out)
+
+> Can you get the 20 point mastery bonus if you teleport from the bottom of the dungeon to the inn? Or do you have to walk out the old-fashioned way to get the badge?
+
+Teleportation is a special form of movement that allows you to move to any room connected to your current room. 
+You can only exit the dungeon from the first room by the entrance. You are not allowed to teleport from the bottom of the dungeon.
+
+----
+page 8 
+
+(Icon of a Mastery token with a number 20 at the bottom) Once you've picked up an Artifact, you can also make your way back to the place you started, outside of the dungeon. If you make it all the way back before being knocked out, you will receive a Mastery token worth an additional 20 points!
+
+----
+page 10
+
+Teleportation is a special form of movement that allows you to move to any room connected to your current room. You do not need to use Boots or fight any monsters in the tunnel. You can even use locked or one-way passages that you normally couldn't. Remember that on the turn you enter a Crystal Cave room (by any means), you can't use any Boots for the rest of the turn.
+
 
 [dragons-eye-mastery-token](https://boardgamegeek.com/thread/1667876/dragons-eye-mastery-token)
 
 > The card Dragon's Eye says its worth 10 if you have a mastery token, what's a mastery token?
 
-A mastery token is a 20-point bonus given to players who escape the dungeon with an artifact. If you hold a mastery token when the game ends, the Dragon's Eye card grants you an additional 10 points, adding to your final score.
+A mastery token is a  special token worth 20-point bonus given to players who escape the dungeon with an artifact. If you hold a mastery token when the game ends, the Dragon's Eye card grants you an additional 10 points, adding to your final score.
 
 ----
-page 4
+page 8
 
-If you make it all the way back before being knocked out, you will receive a Mastery token worth an additional 20 points!
+(Icon of a Mastery token with a number 20 at the bottom) Once you've picked up an Artifact, you can also make your way back to the place you started, outside of the dungeon. If you make it all the way back before being knocked out, you will receive a Mastery token worth an additional 20 points!
 
 [countdown-track-drawing-extra-cubes](https://boardgamegeek.com/thread/1712890/countdown-track-drawing-extra-cubes)
+
+> If a dragon attack is triggered by revealing a card and a meeple is on space 2, 3, or 4 of the countdown track (even if it’s not that player’s turn), are extra cubes drawn from the bag, like with “Danger” cards?
+
+Yes, extra cubes are drawn during a Dragon Attack if a meeple is on spaces 2, 3, or 4 of the Countdown Track. The rules specify that additional cubes are drawn for each of these spaces when a Dragon Attack occurs, regardless of whose turn it is.
+
+----
+page 9
+
+On the second through fourth spaces, this causes an instant Dragon Attack. Additional cubes are drawn from the Dragon Bag for each of these attacks: 1 extra for the second space, 2 extra for the third, and 3 extra for the fourth.
+
 
 [making-sure-dragon-attack-early-in-game](https://boardgamegeek.com/thread/1820960/making-sure-dragon-attack-early-in-game)
 
@@ -26,10 +54,6 @@ page 10
 
 When you play cards during your turn, they go to a play area in front of you. This helps keep track of the cards you've used this turn. 
 
-----
-page 7
-
-Once you've played all of your cards and used as much of your resources as you want to, your turn ends. Put all of the cards you played into your discard pile and draw five new cards in preparation for your next turn.
 
 [market-refresh](https://boardgamegeek.com/thread/3342721/market-refresh)
 
@@ -48,26 +72,65 @@ At the end of every turn, if any of the six spaces for cards in the Dungeon Row 
 For the minor secrets, you don’t get to look and choose which one you want if there are multiple; you simply draw one at random. 
 
 ----
-page 6
+page 2 
 
-When you move into a room, you can take one of the tokens there (Minor Secret, Major Secret, Monkey Idol, or Artifact) and put it in front of you. 
+(Icon of a question mark(?) in black color with a brown background) Shuffle the Minor Secrets face down, then place one at random on each Minor Secret space. (Two in each room with Minor Secrets.)
 
 ----
 page 6
 
-You can only take one token when you move into a room. (If the room has more than one token in it, you must exit and re-enter to pick up another.)
+When you move into a room, you can take one of the tokens there (Minor Secret, Major Secret, Monkey Idol, or Artifact) and put it in front of you. 
+
 
 [disadvantage-first-player-escaping-the-dungeon](https://boardgamegeek.com/thread/1908669/disadvantage-first-player-escaping-the-dungeon)
 
 [rules-question](https://boardgamegeek.com/thread/1936098/rules-question)
 
+> If I move in a tunnel with monster icon and have no sword I take 1 damage. But what about if at the end of the movement I found a potion with a sword: can I use this sword to prevent the previous damage suffered?
+
+No, you cannot use a Potion of Strength (or any similar resource found at the end of your movement) to retroactively prevent damage taken during the movement through a Monster tunnel. you encountered the monster first, failed to kill it, suffered the 1 damage then moved on to discover the item.
+
+----
+page 6
+
+A tunnel with Monster icons deals that much damage to you when you move through it. For each Sword you use, you take one less damage (but you don't have to use Swords to move through a Monster tunnel).
+
+page 12
+
+(Image of a Potion of Strength, with swords inside) Potion of Strength Use during your turn to gain 2 Swords. (Keep until you use it, then return it to the box.)
+
+
+
 [does-monkey-bot-trigger-an-attack-when-it-was-play](https://boardgamegeek.com/thread/2486662/does-monkey-bot-trigger-an-attack-when-it-was-play)
+
+> Does monkey bot trigger an attack when it was played from my hand in my turn?
+
+No, Monkey Bot does not trigger a Dragon Attack when it is played from your hand.
+
+----
+page 8
+
+At the end of every turn, if any of the six spaces for cards in the Dungeon Row are empty, refill them with new cards from the Dungeon Deck. If any of the cards drawn have a Dragon Attack symbol, the dragon attacks! (But only once, no matter how many Dragon Attack symbols were revealed.)
+
+----
+page 6
+
+When you take an Artifact token, move the Dragon marker up one space along the Rage Track.
 
 [resources-on-cards](https://boardgamegeek.com/thread/1758632/resources-on-cards)
 
 > Can I use all the resources on a card or choose only 1? E.g. if a card has both boots and swords can use that card on my turn both for moving and fighting?
 
 You can use all the resources listed on the top left portion of the card. No need to pick and choose. You can use all of them! 
+
+----
+page 4
+
+You start each of your turns with five cards in your hand, and you'll play them all in any order you choose. Most cards will generate resources, of which there are three different kinds:
+
+- (Icon of no.1 in a blue background rhombus shape) SKILL, which is used to acquire new cards for your deck.
+- (Icon of a sword in a red background circle) SWORDS, which are used to fight the monsters that infest the dungeon.
+- (Icon of a boot in a yellow background square) BOOTS, which are used to move around the board.
 
 ----
 page 6
@@ -83,14 +146,11 @@ During your turn, you can use the resources you've generated—Skill, Swords, an
 Yes, you still receive the skill point from the Burglar card, even if it is later trashed by Master Burglar. The resources are available as soon as you play the card, per the rulebook. 
 
 ----
-page 7
-
-Once you've played all of your cards and used as much of your resources as you want to, your turn ends. 
-
-----
 page 10
 
-Some cards and effects can cause you to trash a card. This removes the chosen card from your deck entirely. 
+Some cards ask you to discard a card. You can only discard cards in your hand that you haven't played yet. The card does not have its normal effect, which means discarding can be a useful way to get around cards that generate Clank! If you're asked to discard a card to get something, you must actually discard a card to get it.
+
+
 
 [endgame-question](https://boardgamegeek.com/thread/3343975/endgame-question)
 
@@ -99,13 +159,9 @@ Some cards and effects can cause you to trash a card. This removes the chosen ca
 To score points, a player must possess at least one artifact and be above ground. Without an artifact, a player cannot fully escape the dungeon, even if they're above the depths. Rules clarify that players knocked out above ground can be rescued only if they hold an artifact; otherwise, they don’t score. 
 
 ----
-page 8
-
-If you haven't gotten an Artifact yet, or if you are still stuck in the Depths, then you can't be rescued. You lose the competition, which at this point is the least of your worries. 
-
-----
 page 9
 
+Whenever a player leaves the dungeon or is knocked out, they no longer take normal turns. They add no more Clank! to the Clank! Area. Once all players are out of the dungeon or knocked out, the game ends.
 All players who escaped the dungeon (or at least the Depths) add up their score, counting the following:
 
 (Icon of no.7 with a blue background) The Value Of Their Artifact.
@@ -127,14 +183,19 @@ All players who escaped the dungeon (or at least the Depths) add up their score,
 ----
 page 10
 
-Some cards ask you to discard a card. You can only discard cards in your hand that you haven't played yet. The card does not have its normal effect, which means discarding can be a useful way to get around cards that generate Clank! If you're asked to discard a card to get something, you must actually discard a card to get it.
+A card's Acquire text is carried out one time, when you acquire it from the Dungeon Row (not when you play it later from your hand).
 
----- 
-page 6 
-
-During your turn, you can use the resources you've generated—Skill, Swords, and Boots—to take any of the following actions. You may take each action as many times as you like, as long as you have the resources to do so.
 
 [dwarven-peddler-clarification](https://boardgamegeek.com/thread/1759767/dwarven-peddler-clarification)
+
+> The card reads, "Worth 4 victory points if you have two of the following: chalice, dragon egg, and monkey idol." Are you required to have two distinct items? For example, can you claim the points if you have two dragon eggs but no monkey idol or chalice?
+
+Yes, you can claim the points if you have two of the same item, such as two Dragon Eggs. The card does not specify that the items must be distinct. You do not qualify for the points with two of the same item. You need two distinct items from the list to earn the 4 victory points.
+
+----
+page 9
+
+The player with the most points is the winner and is declared the Greatest Thief in the Realm! In the case of a tie, the tied player with the most valuable Artifact is the winner.
 
 [game-over-companion-app](https://boardgamegeek.com/thread/1903223/game-over-companion-app)
 
@@ -144,21 +205,17 @@ During your turn, you can use the resources you've generated—Skill, Swords, an
 
 > If you purchase a dragon card from the river and then play it, does that initiate another dragon attack?
 
-No, a dragon attack only occurs when a dragon card enters the river, not when it is purchased or played.  
+Yes, purchasing and then playing a Dragon card from the Dungeon Row does initiate another Dragon Attack. When you refill the Dungeon Row at the end of your turn and reveal a Dragon Attack symbol, it triggers an attack immediately.
 
 ----
 page 8
 
 At the end of every turn, if any of the six spaces for cards in the Dungeon Row are empty, refill them with new cards from the Dungeon Deck. If any of the cards drawn have a Dragon Attack symbol, the dragon attacks! (But only once, no matter how many Dragon Attack symbols were revealed.) 
 
-----
-page 6
-
-Once you pay the cost, place the card in your discard pile; it is now part of your deck.
 
 [minor-secrets](https://boardgamegeek.com/thread/1902128/minor-secrets)
 
-> I own the German version of the game and have read about 2 minor secrets being placed in one room, but I don’t see this indicated on the board or in the rules. Should there be 2 minor secrets in each room at the start?
+> Should there be 2 minor secrets in each room at the start?
 
 Yes, 2 minor secrets should be placed in each room at the start. In the German version, an error in the rules incorrectly states only 1 secret per room. The publisher corrected this by including a sticker with the updated rule in all copies.  
 
@@ -174,11 +231,6 @@ Shuffle the Minor Secrets face down, then place one at random on each Minor Secr
 Yes, your turn ends immediately if you are knocked out. However, you can choose the order in which to play your cards, so any actions that could knock you out can be delayed until the end of your turn if preferred. 
 
 ----
-page 8
-
-If your Health Meter is ever completely filled, you are knocked out. What happens next depends on how successful you've been so far: 
-
-----
 page 9
 
 Whenever a player leaves the dungeon or is knocked out, they no longer take normal turns.
@@ -192,7 +244,17 @@ Once you've played all of your cards and used as much of your resources as you w
 
 > If I collect a "2 gold" or "5 gold" secret during a turn in which I've played Search ("Each time you gain gold this turn, gain 1 extra gold"), do I gain 1 extra gold from Search, or does collecting the treasure not count as actually gaining gold since I didn't physically take any coins?
 
- Collecting a "2 gold" or "5 gold" secret does not count as gaining gold for the purpose of Search. The rules specify that "gaining gold" involves taking it from the Bank, which differs from finding gold through secrets. Therefore, Search does not provide extra gold for found treasures.
+Collecting a "2 gold" or "5 gold" secret does not count as gaining gold for the purpose of Search. The rules specify that "gaining gold" involves taking it from the Bank, which differs from finding gold through secrets. Therefore, Search does not provide extra gold for found treasures.
+
+----
+page 7 
+
+When you gain Gold, take it from the Bank and put it in front of you. Each Gold is worth 1 point when the game ends, but you can also use it for other reasons during the game, such as buying items from the Market.
+
+----
+page 10
+
+Some cards have effects that depend on things you have, such as cards in your play area, or items you've collected. You get these effects even if you play the card first and then get the thing you need later in your turn.
 
 [intentional-death-allowed](https://boardgamegeek.com/thread/2693318/intentional-death-allowed)
 
