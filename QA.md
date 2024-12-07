@@ -251,11 +251,6 @@ page 7
 
 When you gain Gold, take it from the Bank and put it in front of you. Each Gold is worth 1 point when the game ends, but you can also use it for other reasons during the game, such as buying items from the Market.
 
-----
-page 10
-
-Some cards have effects that depend on things you have, such as cards in your play area, or items you've collected. You get these effects even if you play the card first and then get the thing you need later in your turn.
-
 [intentional-death-allowed](https://boardgamegeek.com/thread/2693318/intentional-death-allowed)
 
 > Is intentional death allowed?
